@@ -1,4 +1,4 @@
-# Weekly news scrapper
+# Weekly news scraper
 
 - [Golang Weekly News](golangweekly/)
 
