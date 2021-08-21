@@ -71,7 +71,7 @@ func ScrapGolangWeeklyArticles(Number string) error {
 
 	// articles := make([]Article, 0)
 	var header string
-	header = doc.Find("#content").Find(".el-splitbar").First().Find("p").First().Text()
+	header = doc.Find("#content").Find("table").First().Find("p").First().Text()
 	fmt.Fprintf(w, "## [%s](%s)\n\n", header, url)
 
 	doc.Find("#content").Find(".el-item,.miniitem,.el-heading").Each(func(i int, s *goquery.Selection) {
