@@ -1,17 +1,15 @@
-# MDwiki
-
-[README](README.md)
+# Weekly newsletter 
 
 [Golang Weekly](golangweekly/golangweekly-375.md)
+[Kubernetes Weekly](kubelist/kubelist-134.md)
 [SRE Weekly](sreweekly/sreweekly-283.md)
 [DevOps Weekly](devopsweekly/devopsweekly-230.md)
 [DevOps Weekly Notes](devopsweeklynotes/devopsweeklynotes-230.md)
-[Kubernetes Weekly Kubelist](kubelist/kubelist-134.md)
 
 
 <!-- [gimmick:theme (inverse: true)](default) -->
 
-<!-- [gimmick:ThemeChooser](Change theme) -->
+[gimmick:ThemeChooser](Change theme)
 
 <!-- [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/) -->
 
