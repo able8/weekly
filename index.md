@@ -11,4 +11,7 @@
 
 - [DevOps Weekly Notes](devopsweeklynotes/devopsweeklynotes-230.md) From: https://devopsish.com/
 
-- [Kubernetes Weekly Kubelist](kubelist/kubelist-134.md) From: https://kubelist.com/issue/latest/
+- [Kubernetes Weekly](kubelist/kubelist-134.md) From: https://kubelist.com/issue/latest/
+
+
+[gimmick:ForkMeOnGitHub](http://www.github.com/able8/weekly)
