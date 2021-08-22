@@ -50,15 +50,65 @@ func main() {
 	// 	time.Sleep(time.Microsecond * 500)
 	// }
 
-	for i := 1; i < 231; i++ {
-		ScrapDevOpsWeekly(fmt.Sprintf("%03d", i))
-		time.Sleep(time.Microsecond * 500)
-	}
-
-	// for i := 230; i < 231; i++ {
-	// 	ScrapDevOpsWeeklyNotes(fmt.Sprintf("%03d", i))
+	// for i := 1; i < 231; i++ {
+	// 	ScrapDevOpsWeekly(fmt.Sprintf("%03d", i))
 	// 	time.Sleep(time.Microsecond * 500)
 	// }
+
+	// From 106
+	for i := 180; i < 231; i++ {
+		ScrapDevOpsWeeklyNotes(fmt.Sprintf("%03d", i))
+		time.Sleep(time.Microsecond * 500)
+	}
+}
+func ScrapDevOpsWeeklyNotes(Number string) {
+	path := "devopsweeklynotes/"
+	if _, err := os.Stat(path); os.IsNotExist(err) {
+		err := os.Mkdir(path, 0755)
+		check(err)
+	}
+
+	url := "https://devopsish.com/" + Number + "/notes/"
+	resp, err := client.Get(url)
+	log.Println("getting: ", url, resp.StatusCode)
+	check(err)
+	defer resp.Body.Close()
+
+	if resp.StatusCode == http.StatusNotFound {
+		return
+	}
+
+	f, err := os.Create(path + "devopsweeklynotes-" + Number + ".md")
+	check(err)
+	defer f.Close()
+	w := bufio.NewWriter(f)
+
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	check(err)
+
+	var updatedTime string
+	updatedTime = doc.Find("article .blog-post-meta time").Text()
+
+	fmt.Fprintf(w, "## [DevOps'ish %s Notes](%s) - %s\n\n### Notes\n", Number, url, updatedTime)
+
+	doc.Find("article>h2~p,article>h2~hr").EachWithBreak(func(i int, s *goquery.Selection) bool {
+		if s.Is("hr") {
+			return false
+		}
+
+		if s.Is("p") && s.Text() != "" {
+			var title, titleURL string
+			title = s.Find("a").Text()
+			titleURL, _ = s.Find("a").Attr("href")
+
+			fmt.Fprintf(w, "1. [%s](%s)\n\n", title, titleURL)
+		}
+		return true
+	})
+
+	IntNumber, _ := strconv.Atoi(Number)
+	fmt.Fprintf(w, "\n### [ << Prev ](devopsweeklynotes-%03d.md) ------------- [ Next >> ](devopsweeklynotes-%03d.md)", IntNumber-1, IntNumber+1)
+	w.Flush()
 }
 
 func ScrapDevOpsWeekly(Number string) {
