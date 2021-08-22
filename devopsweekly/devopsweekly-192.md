@@ -101,4 +101,4 @@ And yes! Next week is <a href="https://www.cncf.io/events/kubecon-cloudnativecon
 
     A powerful testing tool for Kubernetes clusters.
 
-### [ << Prev ](sreweekly-191.md) ------------- [ Next >> ](sreweekly-193.md)
+### [ << Prev ](devopsweekly-191.md) ------------- [ Next >> ](devopsweekly-193.md)

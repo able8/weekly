@@ -109,4 +109,4 @@ GPT-3 is a massive language model, and Microsoft has exclusive rights to the sou
 
     The proof of concept for the  vulnerability.
 
-### [ << Prev ](sreweekly-224.md) ------------- [ Next >> ](sreweekly-226.md)
+### [ << Prev ](devopsweekly-224.md) ------------- [ Next >> ](devopsweekly-226.md)

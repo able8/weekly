@@ -132,4 +132,4 @@ Happy Holidays to everyone celebrating this time of year. I hope that your time 
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-159.md) ------------- [ Next >> ](sreweekly-161.md)
+### [ << Prev ](devopsweekly-159.md) ------------- [ Next >> ](devopsweekly-161.md)

@@ -99,4 +99,4 @@ This week was Thanksgiving in the US. It was a holiday and I unplugged to a cert
 
      Restore your application configurations AND your persistent storage.
 
-### [ << Prev ](sreweekly-102.md) ------------- [ Next >> ](sreweekly-104.md)
+### [ << Prev ](devopsweekly-102.md) ------------- [ Next >> ](devopsweekly-104.md)

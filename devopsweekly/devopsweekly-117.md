@@ -134,4 +134,4 @@ Learn more about GoCD: <a href="https://www.gocd.org">www.gocd.org</a><br/>Learn
 
      Informs a Mattermost channel if an annotated pod goes into crash loop
 
-### [ << Prev ](sreweekly-116.md) ------------- [ Next >> ](sreweekly-118.md)
+### [ << Prev ](devopsweekly-116.md) ------------- [ Next >> ](devopsweekly-118.md)

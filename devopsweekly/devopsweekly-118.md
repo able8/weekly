@@ -122,4 +122,4 @@ Learn more about GoCD: <a href="https://www.gocd.org">www.gocd.org</a><br/>Learn
 
      Kubernetes CLI To Manage Your Clusters In Style! (I love this tool)
 
-### [ << Prev ](sreweekly-117.md) ------------- [ Next >> ](sreweekly-119.md)
+### [ << Prev ](devopsweekly-117.md) ------------- [ Next >> ](devopsweekly-119.md)

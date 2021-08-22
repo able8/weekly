@@ -153,4 +153,4 @@ I spent the week in Austin at AnsibleFest. If you ever want to experience impost
 
     
 
-### [ << Prev ](sreweekly-95.md) ------------- [ Next >> ](sreweekly-97.md)
+### [ << Prev ](devopsweekly-095.md) ------------- [ Next >> ](devopsweekly-097.md)

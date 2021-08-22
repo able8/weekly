@@ -75,4 +75,4 @@ I understand that there are some of you looking for something to learn while we�
 
     “Sync data from one Postgres database to another”
 
-### [ << Prev ](sreweekly-173.md) ------------- [ Next >> ](sreweekly-175.md)
+### [ << Prev ](devopsweekly-173.md) ------------- [ Next >> ](devopsweekly-175.md)

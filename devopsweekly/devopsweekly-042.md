@@ -78,4 +78,4 @@ On October 24th, <a href="https://devopsish.com/">DevOps’ish</a> will be suppo
 
     
 
-### [ << Prev ](sreweekly-41.md) ------------- [ Next >> ](sreweekly-43.md)
+### [ << Prev ](devopsweekly-041.md) ------------- [ Next >> ](devopsweekly-043.md)

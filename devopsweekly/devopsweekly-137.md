@@ -126,4 +126,4 @@ It’s a big newsletter this week and I’ve made a lot of notes so let’s get 
 
      Interact with your kubernetes cluster rendered in 3d using threejs and css3d
 
-### [ << Prev ](sreweekly-136.md) ------------- [ Next >> ](sreweekly-138.md)
+### [ << Prev ](devopsweekly-136.md) ------------- [ Next >> ](devopsweekly-138.md)

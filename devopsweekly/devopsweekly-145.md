@@ -108,4 +108,4 @@ Event season is upon us but the good news is DevOps’ish has discounts to some 
 
      Shaming sites with dumb password rules.
 
-### [ << Prev ](sreweekly-144.md) ------------- [ Next >> ](sreweekly-146.md)
+### [ << Prev ](devopsweekly-144.md) ------------- [ Next >> ](devopsweekly-146.md)

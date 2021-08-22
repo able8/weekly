@@ -85,4 +85,4 @@ Regardless, Kubernetes Pod Security Policies are going away and folks need to pr
 
     I am not sure how much I’d pay for TweetDeck in its current form. It is lacking a number of features the mobile apps have. If Twitter does this they need to price this very low at first and as feature parity is achieved, increase pricing along the way.
 
-### [ << Prev ](sreweekly-204.md) ------------- [ Next >> ](sreweekly-206.md)
+### [ << Prev ](devopsweekly-204.md) ------------- [ Next >> ](devopsweekly-206.md)

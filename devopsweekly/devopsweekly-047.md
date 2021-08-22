@@ -131,4 +131,4 @@ If you <a href="https://twitter.com/ChrisShort">follow me on Twitter</a>, you kn
 
     
 
-### [ << Prev ](sreweekly-46.md) ------------- [ Next >> ](sreweekly-48.md)
+### [ << Prev ](devopsweekly-046.md) ------------- [ Next >> ](devopsweekly-048.md)

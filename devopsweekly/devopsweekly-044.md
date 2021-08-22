@@ -120,4 +120,4 @@ On October 24th, <a href="https://devopsish.com/">DevOps’ish</a> will be suppo
 
      An Ansible dynamic inventory script for generating an inventory from a Terraform terraform.tfstate file.
 
-### [ << Prev ](sreweekly-43.md) ------------- [ Next >> ](sreweekly-45.md)
+### [ << Prev ](devopsweekly-043.md) ------------- [ Next >> ](devopsweekly-045.md)

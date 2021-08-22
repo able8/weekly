@@ -124,4 +124,4 @@ Diversity and Inclusion (D&amp;I) is a hard, continuous, and iterative journey. 
 
      PagerDuty on-call widget for monitoring dashboard. DataDog and Grafana compatible
 
-### [ << Prev ](sreweekly-113.md) ------------- [ Next >> ](sreweekly-115.md)
+### [ << Prev ](devopsweekly-113.md) ------------- [ Next >> ](devopsweekly-115.md)

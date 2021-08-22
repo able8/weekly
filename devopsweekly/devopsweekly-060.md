@@ -118,4 +118,4 @@ Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to t
 
     Another use case for Raspberry Pi Kubernetes clusters. Don’t forget about !
 
-### [ << Prev ](sreweekly-59.md) ------------- [ Next >> ](sreweekly-61.md)
+### [ << Prev ](devopsweekly-059.md) ------------- [ Next >> ](devopsweekly-061.md)

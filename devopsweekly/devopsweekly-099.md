@@ -130,4 +130,4 @@ This is on top of beefing up the DevOps’ish <a href="../terms/">Terms of Servi
 
      The Mac@IBM enrollment app makes setting up macOS with Jamf Pro more intuitive for users and easier for IT.
 
-### [ << Prev ](sreweekly-98.md) ------------- [ Next >> ](sreweekly-100.md)
+### [ << Prev ](devopsweekly-098.md) ------------- [ Next >> ](devopsweekly-100.md)

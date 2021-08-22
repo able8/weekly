@@ -101,4 +101,4 @@ Happy Mother’s Day! To the single moms, this day should be yours two times ove
 
      CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 
-### [ << Prev ](sreweekly-126.md) ------------- [ Next >> ](sreweekly-128.md)
+### [ << Prev ](devopsweekly-126.md) ------------- [ Next >> ](devopsweekly-128.md)

@@ -83,4 +83,4 @@ I have no idea when any of these talks are going to be publicly available. But, 
 
     A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 
-### [ << Prev ](sreweekly-179.md) ------------- [ Next >> ](sreweekly-181.md)
+### [ << Prev ](devopsweekly-179.md) ------------- [ Next >> ](devopsweekly-181.md)

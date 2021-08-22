@@ -139,4 +139,4 @@ In personal news, thanks to the generosity of the Cloud Native Computing Foundat
 
      (CIL) provides free access to state-of-the-art computing resources for open source developers working to advance cloud native computing.
 
-### [ << Prev ](sreweekly-51.md) ------------- [ Next >> ](sreweekly-53.md)
+### [ << Prev ](devopsweekly-051.md) ------------- [ Next >> ](devopsweekly-053.md)

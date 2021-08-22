@@ -154,4 +154,4 @@ I’ll have more later in the week about KubeCon + CloudNativeCon NA 2018 (aka K
 
      You mean having seventeen repositories, one for every use case, isn’t sustainable? I’m shocked!
 
-### [ << Prev ](sreweekly-105.md) ------------- [ Next >> ](sreweekly-107.md)
+### [ << Prev ](devopsweekly-105.md) ------------- [ Next >> ](devopsweekly-107.md)

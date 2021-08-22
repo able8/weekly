@@ -100,4 +100,4 @@ A note about KubeCon: I want everyone that might be speaking at a Day 0 event or
 
     An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
-### [ << Prev ](sreweekly-228.md) ------------- [ Next >> ](sreweekly-230.md)
+### [ << Prev ](devopsweekly-228.md) ------------- [ Next >> ](devopsweekly-230.md)

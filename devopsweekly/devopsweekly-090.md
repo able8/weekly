@@ -151,4 +151,4 @@ The past few weeks have resulted in iterative improvements to my office workspac
 
      auto enables serving zone data from an RFC 1035-style master file, which is automatically picked up from disk.
 
-### [ << Prev ](sreweekly-89.md) ------------- [ Next >> ](sreweekly-91.md)
+### [ << Prev ](devopsweekly-089.md) ------------- [ Next >> ](devopsweekly-091.md)

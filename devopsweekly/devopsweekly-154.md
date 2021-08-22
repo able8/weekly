@@ -129,4 +129,4 @@ Looking for KubeCon parties? Check <a href="https://devopsish.com/153/">last wee
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-153.md) ------------- [ Next >> ](sreweekly-155.md)
+### [ << Prev ](devopsweekly-153.md) ------------- [ Next >> ](devopsweekly-155.md)

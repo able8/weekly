@@ -156,4 +156,4 @@ The big news this week is Microsoft’s acquisition of GitHub. Jim Zemlin, Execu
 
     As a DevOps Engineer, you’ll be part of a small operations team responsible for engineering and maintaining the production infrastructure for Tivo’s Advanced Search and Recommendations platform in the cloud and on-premises.
 
-### [ << Prev ](sreweekly-78.md) ------------- [ Next >> ](sreweekly-80.md)
+### [ << Prev ](devopsweekly-078.md) ------------- [ Next >> ](devopsweekly-080.md)

@@ -96,4 +96,4 @@ I also learned about the term <a href="https://en.wikipedia.org/wiki/Sealioning?
 
     Sandstorm Kubernetes Client - Convenience tools to interact with Kubernetes
 
-### [ << Prev ](sreweekly-200.md) ------------- [ Next >> ](sreweekly-202.md)
+### [ << Prev ](devopsweekly-200.md) ------------- [ Next >> ](devopsweekly-202.md)

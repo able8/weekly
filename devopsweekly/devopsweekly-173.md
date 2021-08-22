@@ -78,4 +78,4 @@ The impact of the coronavirus hit the tech events industry hard this week. In a 
 
     Dockerized Folding@home client with NVIDIA GPU support
 
-### [ << Prev ](sreweekly-172.md) ------------- [ Next >> ](sreweekly-174.md)
+### [ << Prev ](devopsweekly-172.md) ------------- [ Next >> ](devopsweekly-174.md)

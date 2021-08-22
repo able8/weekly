@@ -108,4 +108,4 @@ DevOpsDay LA<br/>March 9, 2018<br/><a href="https://www.devopsdays.org/events/20
 
      A curated selection of blog posts on Go
 
-### [ << Prev ](sreweekly-64.md) ------------- [ Next >> ](sreweekly-66.md)
+### [ << Prev ](devopsweekly-064.md) ------------- [ Next >> ](devopsweekly-066.md)

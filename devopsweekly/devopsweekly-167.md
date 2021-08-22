@@ -66,4 +66,4 @@ I got up this morning and was quickly exhausted from pain. I had noticed this ex
 
     GNU Make is about to get faster in Linux 5.6 on large core count systems.
 
-### [ << Prev ](sreweekly-166.md) ------------- [ Next >> ](sreweekly-168.md)
+### [ << Prev ](devopsweekly-166.md) ------------- [ Next >> ](devopsweekly-168.md)

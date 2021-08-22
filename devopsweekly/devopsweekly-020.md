@@ -115,4 +115,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     This  reminds me of a call I answered when I worked at a dial-up ISP. The customer called in late at night to figure out why he couldn’t get online. It was late but, I was in the office because of a bad thunderstorm potentially affecting phone lines, modems, etc. I went through several troubleshooting steps only to find out that there was nothing being displayed on his monitor. When I asked if his monitor was turned on he informed me the power was out due to the storm. I was dumbfounded that this seemingly intelligent human did not realize his computer wasn’t powered by the phone line. He asked, “If I can call you, why can’t I get online?” I can’t…
 
-### [ << Prev ](sreweekly-19.md) ------------- [ Next >> ](sreweekly-21.md)
+### [ << Prev ](devopsweekly-019.md) ------------- [ Next >> ](devopsweekly-021.md)

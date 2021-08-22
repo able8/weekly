@@ -132,4 +132,4 @@ This week’s newsletter is a day early. I’ll be moving my daughter into colle
 
     
 
-### [ << Prev ](sreweekly-88.md) ------------- [ Next >> ](sreweekly-90.md)
+### [ << Prev ](devopsweekly-088.md) ------------- [ Next >> ](devopsweekly-090.md)

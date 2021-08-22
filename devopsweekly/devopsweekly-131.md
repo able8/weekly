@@ -98,4 +98,4 @@ This week’s image was something I whipped up when talking to a friend. When I 
 
      Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, rootkit functions etc)
 
-### [ << Prev ](sreweekly-130.md) ------------- [ Next >> ](sreweekly-132.md)
+### [ << Prev ](devopsweekly-130.md) ------------- [ Next >> ](devopsweekly-132.md)

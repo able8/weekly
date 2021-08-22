@@ -133,4 +133,4 @@
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-135.md) ------------- [ Next >> ](sreweekly-137.md)
+### [ << Prev ](devopsweekly-135.md) ------------- [ Next >> ](devopsweekly-137.md)

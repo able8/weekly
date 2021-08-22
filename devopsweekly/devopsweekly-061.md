@@ -110,4 +110,4 @@ I’ve had an absolutely amazing week! I was named a <a href="https://chrisshort
 
      Ugh…
 
-### [ << Prev ](sreweekly-60.md) ------------- [ Next >> ](sreweekly-62.md)
+### [ << Prev ](devopsweekly-060.md) ------------- [ Next >> ](devopsweekly-062.md)

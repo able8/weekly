@@ -83,4 +83,4 @@ We’ll also be streaming open source project Office Hours throughout KubeCon EU
 
     “Container Object Storage Interface (COSI) provisioner responsible to interface with COSI drivers.”
 
-### [ << Prev ](sreweekly-214.md) ------------- [ Next >> ](sreweekly-216.md)
+### [ << Prev ](devopsweekly-214.md) ------------- [ Next >> ](devopsweekly-216.md)

@@ -87,4 +87,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     I wrote some Go and wrote about it! .
 
-### [ << Prev ](sreweekly-17.md) ------------- [ Next >> ](sreweekly-19.md)
+### [ << Prev ](devopsweekly-017.md) ------------- [ Next >> ](devopsweekly-019.md)

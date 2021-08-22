@@ -114,4 +114,4 @@ filesystem with its current privilege set.”  from this bug ever happening in y
 
     If you are a Linux DevOps person with AWS talents please .
 
-### [ << Prev ](sreweekly-5.md) ------------- [ Next >> ](sreweekly-7.md)
+### [ << Prev ](devopsweekly-005.md) ------------- [ Next >> ](devopsweekly-007.md)

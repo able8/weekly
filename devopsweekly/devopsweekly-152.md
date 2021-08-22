@@ -148,4 +148,4 @@ On November 6th, we will be supporting the live online All Day DevOps conference
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-151.md) ------------- [ Next >> ](sreweekly-153.md)
+### [ << Prev ](devopsweekly-151.md) ------------- [ Next >> ](devopsweekly-153.md)

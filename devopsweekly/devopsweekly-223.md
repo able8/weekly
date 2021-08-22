@@ -84,4 +84,4 @@ In vacation mode this week. News reading played second fiddle to having fun.
 
     🦥 Easy and simple Prometheus SLO (service level objectives) generator
 
-### [ << Prev ](sreweekly-222.md) ------------- [ Next >> ](sreweekly-224.md)
+### [ << Prev ](devopsweekly-222.md) ------------- [ Next >> ](devopsweekly-224.md)

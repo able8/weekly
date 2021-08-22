@@ -123,4 +123,4 @@ The expanding role that business leaders expect from IT comes with many challeng
 
     
 
-### [ << Prev ](sreweekly-87.md) ------------- [ Next >> ](sreweekly-89.md)
+### [ << Prev ](devopsweekly-087.md) ------------- [ Next >> ](devopsweekly-089.md)

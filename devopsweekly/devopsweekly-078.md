@@ -140,4 +140,4 @@ My whirlwind speaking tour continued at <a href="https://chrisshort.net/devopsda
 
      An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, and more
 
-### [ << Prev ](sreweekly-77.md) ------------- [ Next >> ](sreweekly-79.md)
+### [ << Prev ](devopsweekly-077.md) ------------- [ Next >> ](devopsweekly-079.md)

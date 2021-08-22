@@ -102,4 +102,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     Who remembers Windows 95’s disk defragmentation tool? I sure do! I ran it every Friday night for YEARS.  complete with sound.
 
-### [ << Prev ](sreweekly-13.md) ------------- [ Next >> ](sreweekly-15.md)
+### [ << Prev ](devopsweekly-013.md) ------------- [ Next >> ](devopsweekly-015.md)

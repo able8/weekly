@@ -81,4 +81,4 @@ A long and arduous week in the world of <a href="https://devopsish.com/"><strong
 
      Amazon Web Services Elastic Compute Cloud (EC2) Rescue for Linux is a python-based tool that allows for the automatic diagnosis of common problems found on EC2 Linux instances.
 
-### [ << Prev ](sreweekly-33.md) ------------- [ Next >> ](sreweekly-35.md)
+### [ << Prev ](devopsweekly-033.md) ------------- [ Next >> ](devopsweekly-035.md)

@@ -205,4 +205,4 @@ I spent most of the week in Durham, NC. I was pretty busy all week trying to lea
 
     NOTE: If you’re a subscriber and looking for talent, please let me know. For the time being, I’m happy to feature job postings from subscribers for free.
 
-### [ << Prev ](sreweekly-83.md) ------------- [ Next >> ](sreweekly-85.md)
+### [ << Prev ](devopsweekly-083.md) ------------- [ Next >> ](devopsweekly-085.md)

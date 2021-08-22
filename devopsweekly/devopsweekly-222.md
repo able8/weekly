@@ -77,4 +77,4 @@ Things need to change. Moving towards a more hybrid and fluid environment is not
 
     “Self-hosted CDN based on Kubernetes”
 
-### [ << Prev ](sreweekly-221.md) ------------- [ Next >> ](sreweekly-223.md)
+### [ << Prev ](devopsweekly-221.md) ------------- [ Next >> ](devopsweekly-223.md)

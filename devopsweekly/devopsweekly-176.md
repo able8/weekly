@@ -72,4 +72,4 @@ Next week’s DevOps’ish (177) will be the last DevOps’ish for a while. I’
 
     “The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm” I switched to this theme in VSCode while writing this newsletter. I had to turn the brightness down on my monitor, that’s probably a good thing. So far, I like it.
 
-### [ << Prev ](sreweekly-175.md) ------------- [ Next >> ](sreweekly-177.md)
+### [ << Prev ](devopsweekly-175.md) ------------- [ Next >> ](devopsweekly-177.md)

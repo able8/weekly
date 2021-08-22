@@ -125,4 +125,4 @@ Want to see your ad in DevOps’ish? Review the <a href="https://devopsish.com/s
 
     Next time you have some time to burn and some Kubernetes to learn.
 
-### [ << Prev ](sreweekly-187.md) ------------- [ Next >> ](sreweekly-189.md)
+### [ << Prev ](devopsweekly-187.md) ------------- [ Next >> ](devopsweekly-189.md)

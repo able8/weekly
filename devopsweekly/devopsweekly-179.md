@@ -65,4 +65,4 @@ It’s time for change. It’s time for consciousness. It’s time for our consc
 
     A solid start. A few more folks contributing and this is gold.
 
-### [ << Prev ](sreweekly-178.md) ------------- [ Next >> ](sreweekly-180.md)
+### [ << Prev ](devopsweekly-178.md) ------------- [ Next >> ](devopsweekly-180.md)

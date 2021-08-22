@@ -104,4 +104,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     Wasm powered Jupyter running in the browser 💡
 
-### [ << Prev ](sreweekly-220.md) ------------- [ Next >> ](sreweekly-222.md)
+### [ << Prev ](devopsweekly-220.md) ------------- [ Next >> ](devopsweekly-222.md)

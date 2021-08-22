@@ -103,4 +103,4 @@
 
      shippable linux user environments
 
-### [ << Prev ](sreweekly-132.md) ------------- [ Next >> ](sreweekly-134.md)
+### [ << Prev ](devopsweekly-132.md) ------------- [ Next >> ](devopsweekly-134.md)

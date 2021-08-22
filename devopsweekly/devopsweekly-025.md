@@ -122,4 +122,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-24.md) ------------- [ Next >> ](sreweekly-26.md)
+### [ << Prev ](devopsweekly-024.md) ------------- [ Next >> ](devopsweekly-026.md)

@@ -135,4 +135,4 @@ I’m going to add this new top five from the previous newsletter. Hit reply and
 
      “Homebrew 1.9.0 has beta support for Linux and Windows 10” YES!!! One step closer to having one Ansible Playbook for all my boxes!!!
 
-### [ << Prev ](sreweekly-109.md) ------------- [ Next >> ](sreweekly-111.md)
+### [ << Prev ](devopsweekly-109.md) ------------- [ Next >> ](devopsweekly-111.md)

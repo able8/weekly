@@ -62,4 +62,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     at a pretty steady clip. Microsoft has the largest market share and nginx is continuing to gain on Apache and is within striking distance of overtaking the Apache behemoth. Interestingly, I am considering writing my own web server in Go with no configuration files; compile and launch a single binary.
 
-### [ << Prev ](sreweekly-12.md) ------------- [ Next >> ](sreweekly-14.md)
+### [ << Prev ](devopsweekly-012.md) ------------- [ Next >> ](devopsweekly-014.md)

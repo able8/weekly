@@ -96,4 +96,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     via BBC
 
-### [ << Prev ](sreweekly-28.md) ------------- [ Next >> ](sreweekly-30.md)
+### [ << Prev ](devopsweekly-028.md) ------------- [ Next >> ](devopsweekly-030.md)

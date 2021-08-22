@@ -93,4 +93,4 @@ Yes, the servers came before the supercomputers, obviously, but I was in the mid
 
     The kubernetes network policy validator.
 
-### [ << Prev ](sreweekly-193.md) ------------- [ Next >> ](sreweekly-195.md)
+### [ << Prev ](devopsweekly-193.md) ------------- [ Next >> ](devopsweekly-195.md)

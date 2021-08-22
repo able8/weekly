@@ -97,4 +97,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     “🔥 🔥 The Open Source Airtable alternative”
 
-### [ << Prev ](sreweekly-219.md) ------------- [ Next >> ](sreweekly-221.md)
+### [ << Prev ](devopsweekly-219.md) ------------- [ Next >> ](devopsweekly-221.md)

@@ -154,4 +154,4 @@ But, the event of the year we all know is <a href="https://twitter.com/search?q=
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-152.md) ------------- [ Next >> ](sreweekly-154.md)
+### [ << Prev ](devopsweekly-152.md) ------------- [ Next >> ](devopsweekly-154.md)

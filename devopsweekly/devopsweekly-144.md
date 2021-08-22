@@ -114,4 +114,4 @@ Event season is upon us but the good news is DevOps’ish has discounts to some 
 
      Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 
-### [ << Prev ](sreweekly-143.md) ------------- [ Next >> ](sreweekly-145.md)
+### [ << Prev ](devopsweekly-143.md) ------------- [ Next >> ](devopsweekly-145.md)

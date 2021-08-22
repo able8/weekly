@@ -112,4 +112,4 @@ Got a jam-packed newsletter this week, complete with relevant stories from The W
 
      Jeff Geerling’s take on where Ansible fits in the cloud native ecosystem of tools. What are you using Ansible for in your environments?
 
-### [ << Prev ](sreweekly-162.md) ------------- [ Next >> ](sreweekly-164.md)
+### [ << Prev ](devopsweekly-162.md) ------------- [ Next >> ](devopsweekly-164.md)

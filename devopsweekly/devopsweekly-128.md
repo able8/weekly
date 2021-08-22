@@ -124,4 +124,4 @@ Thank you to everyone that helped pushed the newsletter to over 3,000 subscriber
 
      💡Instant PHP quality checks from your console
 
-### [ << Prev ](sreweekly-127.md) ------------- [ Next >> ](sreweekly-129.md)
+### [ << Prev ](devopsweekly-127.md) ------------- [ Next >> ](devopsweekly-129.md)

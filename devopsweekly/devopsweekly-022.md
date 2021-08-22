@@ -159,4 +159,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     
 
-### [ << Prev ](sreweekly-21.md) ------------- [ Next >> ](sreweekly-23.md)
+### [ << Prev ](devopsweekly-021.md) ------------- [ Next >> ](devopsweekly-023.md)

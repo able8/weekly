@@ -167,4 +167,4 @@ This week has been a blur. Monday through Wednesday, I was in Atlanta for DevOps
 
     is looking to bring someone on board to work in our DevOps and Digital Transformation practice. If you want to help some big time companies eager to implement change . Plus, you get to work with  and I which is pretty great (IMHO).
 
-### [ << Prev ](sreweekly-71.md) ------------- [ Next >> ](sreweekly-73.md)
+### [ << Prev ](devopsweekly-071.md) ------------- [ Next >> ](devopsweekly-073.md)

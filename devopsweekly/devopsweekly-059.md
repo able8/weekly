@@ -77,4 +77,4 @@ I attended and spoke at DevOpsDays NYC 2018 this week. The conference was very w
 
      Good developers instrument their applications. Good ops teams monitor everything. This near-fetishisation of telemetry has been extended to DevOps, where it now risks becoming something of a problem.
 
-### [ << Prev ](sreweekly-58.md) ------------- [ Next >> ](sreweekly-60.md)
+### [ << Prev ](devopsweekly-058.md) ------------- [ Next >> ](devopsweekly-060.md)

@@ -156,4 +156,4 @@ I’m hopeful this week will be different. If you see any issues, please let me 
 
     
 
-### [ << Prev ](sreweekly-114.md) ------------- [ Next >> ](sreweekly-116.md)
+### [ << Prev ](devopsweekly-114.md) ------------- [ Next >> ](devopsweekly-116.md)

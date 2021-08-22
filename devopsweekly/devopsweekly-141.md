@@ -136,4 +136,4 @@ Event season is upon us but the good news is DevOps’ish has discounts to some 
 
      Open Source compliance for containers
 
-### [ << Prev ](sreweekly-140.md) ------------- [ Next >> ](sreweekly-142.md)
+### [ << Prev ](devopsweekly-140.md) ------------- [ Next >> ](devopsweekly-142.md)

@@ -101,4 +101,4 @@ Event season is upon us but the good news 147DevOps’ish has discounts to some 
 
      This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
-### [ << Prev ](sreweekly-146.md) ------------- [ Next >> ](sreweekly-148.md)
+### [ << Prev ](devopsweekly-146.md) ------------- [ Next >> ](devopsweekly-148.md)

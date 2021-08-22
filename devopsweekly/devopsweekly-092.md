@@ -132,4 +132,4 @@ To Donate to Kim: <a href="https://pages.lightthenight.org/nc/Triangle18/KHaught
 
      Alex walks us through the latest addition to OpenFaaS - full support for stateless microservices giving an example of a guestbook written in Ruby with Sinatra
 
-### [ << Prev ](sreweekly-91.md) ------------- [ Next >> ](sreweekly-93.md)
+### [ << Prev ](devopsweekly-091.md) ------------- [ Next >> ](devopsweekly-093.md)

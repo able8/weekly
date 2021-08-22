@@ -157,4 +157,4 @@ I will be in Austin, TX Sunday through Thursday this week for <a href="https://w
 
      The price rises Chuck Robbins warned us about are coming
 
-### [ << Prev ](sreweekly-94.md) ------------- [ Next >> ](sreweekly-96.md)
+### [ << Prev ](devopsweekly-094.md) ------------- [ Next >> ](devopsweekly-096.md)

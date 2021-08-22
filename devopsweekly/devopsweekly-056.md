@@ -85,4 +85,4 @@ I don’t like to do prediction pieces typically (although I do read them). Feed
 
      The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
-### [ << Prev ](sreweekly-55.md) ------------- [ Next >> ](sreweekly-57.md)
+### [ << Prev ](devopsweekly-055.md) ------------- [ Next >> ](devopsweekly-057.md)

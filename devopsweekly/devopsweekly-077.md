@@ -162,4 +162,4 @@ It is Memorial Day weekend here in the US. One thing we veterans get mildly irri
 
      CalVer is a software versioning convention that is based on your project’s release calendar, instead of arbitrary numbers.
 
-### [ << Prev ](sreweekly-76.md) ------------- [ Next >> ](sreweekly-78.md)
+### [ << Prev ](devopsweekly-076.md) ------------- [ Next >> ](devopsweekly-078.md)

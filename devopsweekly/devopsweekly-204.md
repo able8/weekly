@@ -86,4 +86,4 @@ This week’s biggest stories (my opinion):
 
     OPA!!! And Gatekeeper too.
 
-### [ << Prev ](sreweekly-203.md) ------------- [ Next >> ](sreweekly-205.md)
+### [ << Prev ](devopsweekly-203.md) ------------- [ Next >> ](devopsweekly-205.md)

@@ -158,4 +158,4 @@ Learn more about GoCD: <a href="https://www.gocd.org">www.gocd.org</a><br/>Learn
 
      A microservice framework
 
-### [ << Prev ](sreweekly-118.md) ------------- [ Next >> ](sreweekly-120.md)
+### [ << Prev ](devopsweekly-118.md) ------------- [ Next >> ](devopsweekly-120.md)

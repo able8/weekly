@@ -113,4 +113,4 @@ Happy Veteran’s Day (in the US)! Thank you to all those that have served. I ap
 
      Microsoft’s decision to make .NET Core open source means it’s time for Linux developers to get comfortable and start experimenting.
 
-### [ << Prev ](sreweekly-48.md) ------------- [ Next >> ](sreweekly-50.md)
+### [ << Prev ](devopsweekly-048.md) ------------- [ Next >> ](devopsweekly-050.md)

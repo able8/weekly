@@ -121,4 +121,4 @@ We need to take the virtual event and flip it on its head. Shake what’s good o
 
     Gatus - Automated service health dashboard
 
-### [ << Prev ](sreweekly-192.md) ------------- [ Next >> ](sreweekly-194.md)
+### [ << Prev ](devopsweekly-192.md) ------------- [ Next >> ](devopsweekly-194.md)

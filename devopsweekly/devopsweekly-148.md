@@ -103,4 +103,4 @@ On November 6th, we will be supporting the live online All Day DevOps conference
 
      Senpai is an automated memory sizing tool for container applications.
 
-### [ << Prev ](sreweekly-147.md) ------------- [ Next >> ](sreweekly-149.md)
+### [ << Prev ](devopsweekly-147.md) ------------- [ Next >> ](devopsweekly-149.md)

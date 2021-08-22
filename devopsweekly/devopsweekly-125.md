@@ -140,4 +140,4 @@ This Docker Hub breach is a <strong>significant breach</strong>. If any of the t
 
      The canonical source for Kubernetes Operators that appear on OperatorHub.io, OpenShift Container Platform, and
 
-### [ << Prev ](sreweekly-124.md) ------------- [ Next >> ](sreweekly-126.md)
+### [ << Prev ](devopsweekly-124.md) ------------- [ Next >> ](devopsweekly-126.md)

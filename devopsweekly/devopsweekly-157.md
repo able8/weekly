@@ -128,4 +128,4 @@ If you’re looking for news from <a href="https://devopsish.com/157/reinvent/">
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-156.md) ------------- [ Next >> ](sreweekly-158.md)
+### [ << Prev ](devopsweekly-156.md) ------------- [ Next >> ](devopsweekly-158.md)

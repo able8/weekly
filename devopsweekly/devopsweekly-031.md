@@ -134,4 +134,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
      On the other side of job seeking is hiring. As a hiring manager, I am finding it very challenging to get people to open up during that initial phone call. I want details but not rambling, I want low ego but please tell me what you’re proud of. This how to is good and I especially think asking every candidate the same questions is very important.
 
-### [ << Prev ](sreweekly-30.md) ------------- [ Next >> ](sreweekly-32.md)
+### [ << Prev ](devopsweekly-030.md) ------------- [ Next >> ](devopsweekly-032.md)

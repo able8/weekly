@@ -96,4 +96,4 @@ Then it got worse. I won’t go into details but, let’s just say it was the ch
 
     visualise your iptables chains
 
-### [ << Prev ](sreweekly-225.md) ------------- [ Next >> ](sreweekly-227.md)
+### [ << Prev ](devopsweekly-225.md) ------------- [ Next >> ](devopsweekly-227.md)

@@ -111,4 +111,4 @@ I say soft launch because it’s important for me to take things iteratively. <a
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-134.md) ------------- [ Next >> ](sreweekly-136.md)
+### [ << Prev ](devopsweekly-134.md) ------------- [ Next >> ](devopsweekly-136.md)

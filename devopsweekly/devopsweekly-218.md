@@ -99,4 +99,4 @@ Adopt feature management practices to accelerate release cycles and deploy every
 
     SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 
-### [ << Prev ](sreweekly-217.md) ------------- [ Next >> ](sreweekly-219.md)
+### [ << Prev ](devopsweekly-217.md) ------------- [ Next >> ](devopsweekly-219.md)

@@ -76,4 +76,4 @@ Please note, the <a href="https://devopsish.com/solarwinds-supply-chain-compromi
 
     Knative on Kind (KonK)
 
-### [ << Prev ](sreweekly-205.md) ------------- [ Next >> ](sreweekly-207.md)
+### [ << Prev ](devopsweekly-205.md) ------------- [ Next >> ](devopsweekly-207.md)

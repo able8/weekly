@@ -107,4 +107,4 @@ Other articles on Dan’s passing:
 
     ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
-### [ << Prev ](sreweekly-190.md) ------------- [ Next >> ](sreweekly-192.md)
+### [ << Prev ](devopsweekly-190.md) ------------- [ Next >> ](devopsweekly-192.md)

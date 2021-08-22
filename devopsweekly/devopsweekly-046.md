@@ -123,4 +123,4 @@ On October 24th, <a href="https://devopsish.com/">DevOps’ish</a> will be suppo
 
      mailproxy is a simple SMTP proxy. It receives emails through an unencrypted, unauthenticated SMTP interface and retransmits them through a remote SMTP server that requires modern features such as encryption and/or authentication. mailproxy is primarily useful for enabling email functionality in legacy software that only supports plain SMTP.
 
-### [ << Prev ](sreweekly-45.md) ------------- [ Next >> ](sreweekly-47.md)
+### [ << Prev ](devopsweekly-045.md) ------------- [ Next >> ](devopsweekly-047.md)

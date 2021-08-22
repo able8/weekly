@@ -96,4 +96,4 @@ Rootly helps automate the tedious manual work like creating incident channels, s
 
     “Five Fifths Voter is a web application tool designed to enable and empower Black people and others to exercise their right to vote by ensuring their voice is heard”
 
-### [ << Prev ](sreweekly-229.md) ------------- [ Next >> ](sreweekly-231.md)
+### [ << Prev ](devopsweekly-229.md) ------------- [ Next >> ](devopsweekly-231.md)

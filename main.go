@@ -46,17 +46,19 @@ func check(e error) {
 
 func main() {
 	// for i := 205; i < 376; i++ {
-	// 	err := ScrapGolangWeeklyArticles(strconv.Itoa(i))
+	// 	ScrapGolangWeeklyArticles(strconv.Itoa(i))
 	// 	time.Sleep(time.Microsecond * 500)
-	// 	if err != nil {
-	// 		log.Fatalln(err)
-	// 	}
 	// }
 
 	for i := 1; i < 231; i++ {
 		ScrapDevOpsWeekly(fmt.Sprintf("%03d", i))
 		time.Sleep(time.Microsecond * 500)
 	}
+
+	// for i := 230; i < 231; i++ {
+	// 	ScrapDevOpsWeeklyNotes(fmt.Sprintf("%03d", i))
+	// 	time.Sleep(time.Microsecond * 500)
+	// }
 }
 
 func ScrapDevOpsWeekly(Number string) {
@@ -117,7 +119,7 @@ func ScrapDevOpsWeekly(Number string) {
 	})
 
 	IntNumber, _ := strconv.Atoi(Number)
-	fmt.Fprintf(w, "\n### [ << Prev ](sreweekly-%d.md) ------------- [ Next >> ](sreweekly-%d.md)", IntNumber-1, IntNumber+1)
+	fmt.Fprintf(w, "\n### [ << Prev ](devopsweekly-%03d.md) ------------- [ Next >> ](devopsweekly-%03d.md)", IntNumber-1, IntNumber+1)
 	w.Flush()
 }
 

@@ -116,4 +116,4 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! <
 
     
 
-### [ << Prev ](sreweekly-90.md) ------------- [ Next >> ](sreweekly-92.md)
+### [ << Prev ](devopsweekly-090.md) ------------- [ Next >> ](devopsweekly-092.md)

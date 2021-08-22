@@ -87,4 +87,4 @@ But, there is comfort in working for a 25-year-old organization inside a much la
 
     A little something for my network engineering buddies out there. You know I still got love for y’all. I used to be a heavy user of OSPF.
 
-### [ << Prev ](sreweekly-180.md) ------------- [ Next >> ](sreweekly-182.md)
+### [ << Prev ](devopsweekly-180.md) ------------- [ Next >> ](devopsweekly-182.md)

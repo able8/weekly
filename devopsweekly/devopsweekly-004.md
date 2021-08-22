@@ -56,4 +56,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     Joel Sing pointed out this week that . I have to agree, it should not be as hard as he describes. Want a good example? Compile nmap configured to use OpenSSL 1.1.
 
-### [ << Prev ](sreweekly-3.md) ------------- [ Next >> ](sreweekly-5.md)
+### [ << Prev ](devopsweekly-003.md) ------------- [ Next >> ](devopsweekly-005.md)

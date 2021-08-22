@@ -179,4 +179,4 @@ Then the dot-com bubble burst and off to the Air Force I went. Where I did do so
 
      I need this built into my brain ASAP!
 
-### [ << Prev ](sreweekly-101.md) ------------- [ Next >> ](sreweekly-103.md)
+### [ << Prev ](devopsweekly-101.md) ------------- [ Next >> ](devopsweekly-103.md)

@@ -109,4 +109,4 @@ I’ll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get toget
 
      An OVN-based Kubernetes Network Fabric for Enterprises
 
-### [ << Prev ](sreweekly-128.md) ------------- [ Next >> ](sreweekly-130.md)
+### [ << Prev ](devopsweekly-128.md) ------------- [ Next >> ](devopsweekly-130.md)

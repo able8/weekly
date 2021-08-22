@@ -103,4 +103,4 @@ To Register: <a href="https://allthingsopen.org/register-now">https://allthingso
 
     A manager in an agile environment with strong technical skills. Collaborative leader who will understand our people, business, technology, and customers’ needs. Leader who helps drive our culture of empowerment, ownership, and accountability to help develop our team technically and professionally. Identify and successfully implement improvements in our engineering processes, tools, and architecture to enable us to deliver on our key initiatives.
 
-### [ << Prev ](sreweekly-39.md) ------------- [ Next >> ](sreweekly-41.md)
+### [ << Prev ](devopsweekly-039.md) ------------- [ Next >> ](devopsweekly-041.md)

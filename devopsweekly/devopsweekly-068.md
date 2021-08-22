@@ -101,4 +101,4 @@ On Wednesday, Kelsey Hightower decided to <a href="https://twitter.com/kelseyhig
 
     !
 
-### [ << Prev ](sreweekly-67.md) ------------- [ Next >> ](sreweekly-69.md)
+### [ << Prev ](devopsweekly-067.md) ------------- [ Next >> ](devopsweekly-069.md)

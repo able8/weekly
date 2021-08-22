@@ -227,4 +227,4 @@ We want everyone to have a local Kubernetes instance to experiment with, this wi
 
     NOTE: If you’re a subscriber and looking for talent, please let me know. For the time being, I’m happy to feature job postings from subscribers for free.
 
-### [ << Prev ](sreweekly-82.md) ------------- [ Next >> ](sreweekly-84.md)
+### [ << Prev ](devopsweekly-082.md) ------------- [ Next >> ](devopsweekly-084.md)

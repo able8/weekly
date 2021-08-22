@@ -112,4 +112,4 @@ The year 2019 is winding down. This is the time of year I reflect on the past 36
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-157.md) ------------- [ Next >> ](sreweekly-159.md)
+### [ << Prev ](devopsweekly-157.md) ------------- [ Next >> ](devopsweekly-159.md)

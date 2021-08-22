@@ -78,4 +78,4 @@ There is <a href="https://www.dailymotion.com/video/x4h4db5">a line in Saving Pr
 
     Order Domino’s with Kubernetes
 
-### [ << Prev ](sreweekly-171.md) ------------- [ Next >> ](sreweekly-173.md)
+### [ << Prev ](devopsweekly-171.md) ------------- [ Next >> ](devopsweekly-173.md)

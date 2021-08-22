@@ -97,4 +97,4 @@ I made it through another year. I’m glad you did too.
 
     💎 A Ruby-based static website generator
 
-### [ << Prev ](sreweekly-182.md) ------------- [ Next >> ](sreweekly-184.md)
+### [ << Prev ](devopsweekly-182.md) ------------- [ Next >> ](devopsweekly-184.md)

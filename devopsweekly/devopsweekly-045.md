@@ -119,4 +119,4 @@ On October 24th, <a href="https://devopsish.com/">DevOps’ish</a> will be suppo
 
     using Docker on an external volume
 
-### [ << Prev ](sreweekly-44.md) ------------- [ Next >> ](sreweekly-46.md)
+### [ << Prev ](devopsweekly-044.md) ------------- [ Next >> ](devopsweekly-046.md)

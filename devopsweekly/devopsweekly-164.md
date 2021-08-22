@@ -110,4 +110,4 @@ On my last trip of 2019, I took a very important walk with a friend. We talked e
 
      Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
 
-### [ << Prev ](sreweekly-163.md) ------------- [ Next >> ](sreweekly-165.md)
+### [ << Prev ](devopsweekly-163.md) ------------- [ Next >> ](devopsweekly-165.md)

@@ -160,4 +160,4 @@ Date: 2018-04-20 at 6:30 PM<br/>Where: <a href="https://dopensource.com/">dOpenS
 
     , a Michigan based company, is looking for an experienced person to fill a Operations Engineer - Platform Security role. I’ve heard nothing but good things about Duo.
 
-### [ << Prev ](sreweekly-70.md) ------------- [ Next >> ](sreweekly-72.md)
+### [ << Prev ](devopsweekly-070.md) ------------- [ Next >> ](devopsweekly-072.md)

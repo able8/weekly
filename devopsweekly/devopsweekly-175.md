@@ -75,4 +75,4 @@ I was going to make a list of things you could learn this week but, the tech wor
 
     “These services help make it easier to manage your applications environment in Kubernetes”
 
-### [ << Prev ](sreweekly-174.md) ------------- [ Next >> ](sreweekly-176.md)
+### [ << Prev ](devopsweekly-174.md) ------------- [ Next >> ](devopsweekly-176.md)

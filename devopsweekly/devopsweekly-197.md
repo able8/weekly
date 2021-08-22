@@ -118,4 +118,4 @@ There’s already a lot of coverage and it will continue to grow. Here’s where
 
     K8Spin multi-tenant operator
 
-### [ << Prev ](sreweekly-196.md) ------------- [ Next >> ](sreweekly-198.md)
+### [ << Prev ](devopsweekly-196.md) ------------- [ Next >> ](devopsweekly-198.md)

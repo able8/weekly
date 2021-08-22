@@ -107,4 +107,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     their new home for open source, . Google has opened a treasure trove of documentation to help companies advance their open source initiatives.  announcing Google Open Source is a great listen.
 
-### [ << Prev ](sreweekly-16.md) ------------- [ Next >> ](sreweekly-18.md)
+### [ << Prev ](devopsweekly-016.md) ------------- [ Next >> ](devopsweekly-018.md)

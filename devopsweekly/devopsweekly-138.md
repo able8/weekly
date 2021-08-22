@@ -113,4 +113,4 @@ A deeper dive on JEDI and how Oracle’s objections to it harm US national sercu
 
      UBI 8 Docker container for Ansible playbook and role testing.
 
-### [ << Prev ](sreweekly-137.md) ------------- [ Next >> ](sreweekly-139.md)
+### [ << Prev ](devopsweekly-137.md) ------------- [ Next >> ](devopsweekly-139.md)

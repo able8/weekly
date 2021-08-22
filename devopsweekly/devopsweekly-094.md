@@ -143,4 +143,4 @@ Shortly after <a href="../093/">DevOps’ish 093</a> went out last week, Linus T
 
      “Microsoft’s No. 1 networking feature for the forthcoming Windows Server 2019 product is Kubernetes support, according to a Wednesday announcement.”
 
-### [ << Prev ](sreweekly-93.md) ------------- [ Next >> ](sreweekly-95.md)
+### [ << Prev ](devopsweekly-093.md) ------------- [ Next >> ](devopsweekly-095.md)

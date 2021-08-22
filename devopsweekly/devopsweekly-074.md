@@ -136,4 +136,4 @@ My week started out great! Spring had finally sprung here in Michigan. But, with
 
     is looking for a Site Reliability Engineer in Cary, NC. Based off my experiences with DZone, this is a cool place to work. To quote a decision maker at DZone, “We need strong cloud, automation, security [experience].” Check them out.
 
-### [ << Prev ](sreweekly-73.md) ------------- [ Next >> ](sreweekly-75.md)
+### [ << Prev ](devopsweekly-073.md) ------------- [ Next >> ](devopsweekly-075.md)

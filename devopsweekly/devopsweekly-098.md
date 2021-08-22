@@ -103,4 +103,4 @@ I gave up a huge part of my existence helping others enable voting in foreign co
 
      “Computer: Install me an Istio”
 
-### [ << Prev ](sreweekly-97.md) ------------- [ Next >> ](sreweekly-99.md)
+### [ << Prev ](devopsweekly-097.md) ------------- [ Next >> ](devopsweekly-099.md)

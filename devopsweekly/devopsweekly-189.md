@@ -90,4 +90,4 @@ Want to see your organization in DevOps’ish? Review the <a href="https://devop
 
     A Kubernetes operator to sync secrets from AWS Secrets Manager
 
-### [ << Prev ](sreweekly-188.md) ------------- [ Next >> ](sreweekly-190.md)
+### [ << Prev ](devopsweekly-188.md) ------------- [ Next >> ](devopsweekly-190.md)

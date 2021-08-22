@@ -97,4 +97,4 @@ No one is right here, and customers pretty much get hosed on the software and se
 
     The dumb alternative to markdown. The keyword for title is title.
 
-### [ << Prev ](sreweekly-201.md) ------------- [ Next >> ](sreweekly-203.md)
+### [ << Prev ](devopsweekly-201.md) ------------- [ Next >> ](devopsweekly-203.md)

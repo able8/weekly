@@ -136,4 +136,4 @@ This is not to say I decline every meeting invite I get. It’s to say that if a
 
      ansible-playbook + buildah = a sweet container image
 
-### [ << Prev ](sreweekly-111.md) ------------- [ Next >> ](sreweekly-113.md)
+### [ << Prev ](devopsweekly-111.md) ------------- [ Next >> ](devopsweekly-113.md)

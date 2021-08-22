@@ -76,4 +76,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     Top-like interface for container metrics
 
-### [ << Prev ](sreweekly-212.md) ------------- [ Next >> ](sreweekly-214.md)
+### [ << Prev ](devopsweekly-212.md) ------------- [ Next >> ](devopsweekly-214.md)

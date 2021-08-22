@@ -95,4 +95,4 @@ My mental health needs a break. I need an average week for once.
 
     “Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.”
 
-### [ << Prev ](sreweekly-185.md) ------------- [ Next >> ](sreweekly-187.md)
+### [ << Prev ](devopsweekly-185.md) ------------- [ Next >> ](devopsweekly-187.md)

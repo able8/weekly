@@ -84,4 +84,4 @@ I’m writing this for my veteran friends. If I had made it to the 20-year mark,
 
     list/copy/sync/compare S3 buckets 5x-50x faster than aws-cli
 
-### [ << Prev ](sreweekly-202.md) ------------- [ Next >> ](sreweekly-204.md)
+### [ << Prev ](devopsweekly-202.md) ------------- [ Next >> ](devopsweekly-204.md)

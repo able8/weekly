@@ -113,4 +113,4 @@ I have been through the highest of highs and lowest of lows this week. But, Than
 
      A step by step guide on creating build and deployment pipelines for Kubernetes.
 
-### [ << Prev ](sreweekly-50.md) ------------- [ Next >> ](sreweekly-52.md)
+### [ << Prev ](devopsweekly-050.md) ------------- [ Next >> ](devopsweekly-052.md)

@@ -139,4 +139,4 @@ DevOpsDay LA<br/>March 9, 2018<br/><a href="https://www.devopsdays.org/events/20
 
      CloudMapper creates network diagrams of AWS environments
 
-### [ << Prev ](sreweekly-63.md) ------------- [ Next >> ](sreweekly-65.md)
+### [ << Prev ](devopsweekly-063.md) ------------- [ Next >> ](devopsweekly-065.md)

@@ -95,4 +95,4 @@ This week has been a trying week for me. I’ve touched almost every facet of wh
 
      A unified workflow for collaborating on Terraform through GitHub from HootSuite
 
-### [ << Prev ](sreweekly-35.md) ------------- [ Next >> ](sreweekly-37.md)
+### [ << Prev ](devopsweekly-035.md) ------------- [ Next >> ](devopsweekly-037.md)

@@ -144,4 +144,4 @@ So much of technology and working with it and in it involves change. Yet, as tec
 
      Kooper is a simple Go library to create Kubernetes operators and controllers.
 
-### [ << Prev ](sreweekly-62.md) ------------- [ Next >> ](sreweekly-64.md)
+### [ << Prev ](devopsweekly-062.md) ------------- [ Next >> ](devopsweekly-064.md)

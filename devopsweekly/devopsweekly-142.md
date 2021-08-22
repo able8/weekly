@@ -109,4 +109,4 @@ Event season is upon us but the good news is DevOps’ish has discounts to some 
 
      The Hero that Kubernetes deserves
 
-### [ << Prev ](sreweekly-141.md) ------------- [ Next >> ](sreweekly-143.md)
+### [ << Prev ](devopsweekly-141.md) ------------- [ Next >> ](devopsweekly-143.md)

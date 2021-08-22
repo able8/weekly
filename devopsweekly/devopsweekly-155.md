@@ -113,4 +113,4 @@ I can tell you for certain, I’m not the only one that feels this way. One CNCF
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-154.md) ------------- [ Next >> ](sreweekly-156.md)
+### [ << Prev ](devopsweekly-154.md) ------------- [ Next >> ](devopsweekly-156.md)

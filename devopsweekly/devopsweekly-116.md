@@ -121,4 +121,4 @@ This week I’m holding down the fort outside Detroit. I plan on attending the <
 
      Markdown Presentation Writer (MIT Licensed)
 
-### [ << Prev ](sreweekly-115.md) ------------- [ Next >> ](sreweekly-117.md)
+### [ << Prev ](devopsweekly-115.md) ------------- [ Next >> ](devopsweekly-117.md)

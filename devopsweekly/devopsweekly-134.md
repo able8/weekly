@@ -110,4 +110,4 @@ Folks have to pick a cloud or build a platform across them. This is why Kubernet
 
      A curated list of resources for mobile devops, including blog posts and talks about tooling and infrastructure for mobile apps
 
-### [ << Prev ](sreweekly-133.md) ------------- [ Next >> ](sreweekly-135.md)
+### [ << Prev ](devopsweekly-133.md) ------------- [ Next >> ](devopsweekly-135.md)

@@ -78,4 +78,4 @@ IBM uses a top-down approach to sales and enablement because it has established 
 
     Debt is a tool. But, managing that debt is vital. Letting debt manage you leads to horrible things. I’m talking about money here but, your org’s codebases might be old enough to be at this level of impact too. But, much like you had to learn some money management terms to navigate the financial world, you’ll have to adopt new language to get management to understand the need to manage this tech debt sooner rather than later.
 
-### [ << Prev ](sreweekly-167.md) ------------- [ Next >> ](sreweekly-169.md)
+### [ << Prev ](devopsweekly-167.md) ------------- [ Next >> ](devopsweekly-169.md)

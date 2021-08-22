@@ -117,4 +117,4 @@ Last but not least, if you love reading the news as I do, I would recommend you 
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-198.md) ------------- [ Next >> ](sreweekly-200.md)
+### [ << Prev ](devopsweekly-198.md) ------------- [ Next >> ](devopsweekly-200.md)

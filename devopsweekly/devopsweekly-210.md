@@ -117,4 +117,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     Operator for managing Node Feature Discovery deployment
 
-### [ << Prev ](sreweekly-209.md) ------------- [ Next >> ](sreweekly-211.md)
+### [ << Prev ](devopsweekly-209.md) ------------- [ Next >> ](devopsweekly-211.md)

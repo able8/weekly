@@ -106,4 +106,4 @@ I’m speaking as part of a group talk about non-code contributions, specificall
 
     A simple and fast dashboard for Kubernetes
 
-### [ << Prev ](sreweekly-213.md) ------------- [ Next >> ](sreweekly-215.md)
+### [ << Prev ](devopsweekly-213.md) ------------- [ Next >> ](devopsweekly-215.md)

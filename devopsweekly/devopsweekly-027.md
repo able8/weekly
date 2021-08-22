@@ -82,4 +82,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     Uber sunk to new lows this week. . . . . If you still are working at Uber, I’d like to know why? Seriously.
 
-### [ << Prev ](sreweekly-26.md) ------------- [ Next >> ](sreweekly-28.md)
+### [ << Prev ](devopsweekly-026.md) ------------- [ Next >> ](devopsweekly-028.md)

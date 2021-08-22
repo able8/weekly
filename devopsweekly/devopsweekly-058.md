@@ -97,4 +97,4 @@ This week I will be in New York City for <a href="https://www.devopsdays.org/eve
 
      Rich interactive widgets for terminal-based UIs written in Go
 
-### [ << Prev ](sreweekly-57.md) ------------- [ Next >> ](sreweekly-59.md)
+### [ << Prev ](devopsweekly-057.md) ------------- [ Next >> ](devopsweekly-059.md)

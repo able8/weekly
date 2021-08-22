@@ -132,4 +132,4 @@ I spent the week in Orlando. The first two days for work and the last three for 
 
      “In this post I’m going to look at three popular tools often used for ad-hoc monitoring as well as look at a simplistic solution for monitoring distributed systems.”
 
-### [ << Prev ](sreweekly-96.md) ------------- [ Next >> ](sreweekly-98.md)
+### [ << Prev ](devopsweekly-096.md) ------------- [ Next >> ](devopsweekly-098.md)

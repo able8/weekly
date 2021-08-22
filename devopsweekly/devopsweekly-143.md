@@ -91,4 +91,4 @@ Event season is upon us but the good news is DevOps’ish has discounts to some 
 
      Drill is a HTTP load testing application written in Rust inspired by Ansible syntax
 
-### [ << Prev ](sreweekly-142.md) ------------- [ Next >> ](sreweekly-144.md)
+### [ << Prev ](devopsweekly-142.md) ------------- [ Next >> ](devopsweekly-144.md)

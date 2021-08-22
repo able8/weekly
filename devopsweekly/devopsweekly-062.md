@@ -112,4 +112,4 @@ If you’re around any of these places or events please don’t hesitate to stop
 
      AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 
-### [ << Prev ](sreweekly-61.md) ------------- [ Next >> ](sreweekly-63.md)
+### [ << Prev ](devopsweekly-061.md) ------------- [ Next >> ](devopsweekly-063.md)

@@ -161,4 +161,4 @@ Two personal notes:
 
     dig +short txt istheinternetonfire.com
 
-### [ << Prev ](sreweekly-56.md) ------------- [ Next >> ](sreweekly-58.md)
+### [ << Prev ](devopsweekly-056.md) ------------- [ Next >> ](devopsweekly-058.md)

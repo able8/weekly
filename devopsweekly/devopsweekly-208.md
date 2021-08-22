@@ -95,4 +95,4 @@ Note: The <a href="https://devopsish.com/solarwinds-supply-chain-compromise/">De
 
     
 
-### [ << Prev ](sreweekly-207.md) ------------- [ Next >> ](sreweekly-209.md)
+### [ << Prev ](devopsweekly-207.md) ------------- [ Next >> ](devopsweekly-209.md)

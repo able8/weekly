@@ -153,4 +153,4 @@ I’m on PTO this week. I thought about DevOps’ish taking its first week off e
 
      I’ve never used ip link set dev {DEVICE} {up|down} before. It’s been a long time since I’ve bounced an interface on a Linux server come to think about it.
 
-### [ << Prev ](sreweekly-106.md) ------------- [ Next >> ](sreweekly-108.md)
+### [ << Prev ](devopsweekly-106.md) ------------- [ Next >> ](devopsweekly-108.md)

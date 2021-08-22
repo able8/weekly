@@ -97,4 +97,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     Automatic container image update for Argo CD
 
-### [ << Prev ](sreweekly-210.md) ------------- [ Next >> ](sreweekly-212.md)
+### [ << Prev ](devopsweekly-210.md) ------------- [ Next >> ](devopsweekly-212.md)

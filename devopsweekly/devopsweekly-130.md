@@ -114,4 +114,4 @@
 
      Solid - Re-decentralizing the web (project directory)
 
-### [ << Prev ](sreweekly-129.md) ------------- [ Next >> ](sreweekly-131.md)
+### [ << Prev ](devopsweekly-129.md) ------------- [ Next >> ](devopsweekly-131.md)

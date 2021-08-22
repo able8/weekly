@@ -140,4 +140,4 @@ I’m introducing a special feature of DevOps’ish I’m calling <a href="../ca
 
      This will come in handy.
 
-### [ << Prev ](sreweekly-99.md) ------------- [ Next >> ](sreweekly-101.md)
+### [ << Prev ](devopsweekly-099.md) ------------- [ Next >> ](devopsweekly-101.md)

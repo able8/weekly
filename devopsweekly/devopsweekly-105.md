@@ -132,4 +132,4 @@ Vulnerabilities, Attacks, and Countermeasures (PDF)](https://arxiv.org/pdf/1811.
 
      I welcome Java’s open first future.
 
-### [ << Prev ](sreweekly-104.md) ------------- [ Next >> ](sreweekly-106.md)
+### [ << Prev ](devopsweekly-104.md) ------------- [ Next >> ](devopsweekly-106.md)

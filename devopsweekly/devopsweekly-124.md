@@ -119,4 +119,4 @@ I hope you had a wonderful week and are looking forward to the week ahead. I hav
 
      A handy guide to financial support for open source
 
-### [ << Prev ](sreweekly-123.md) ------------- [ Next >> ](sreweekly-125.md)
+### [ << Prev ](devopsweekly-123.md) ------------- [ Next >> ](devopsweekly-125.md)

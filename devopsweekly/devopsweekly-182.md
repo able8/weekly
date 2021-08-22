@@ -74,4 +74,4 @@ Or… Is it what we all know deep down inside? It’s a little bit of a shit sho
 
     Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way
 
-### [ << Prev ](sreweekly-181.md) ------------- [ Next >> ](sreweekly-183.md)
+### [ << Prev ](devopsweekly-181.md) ------------- [ Next >> ](devopsweekly-183.md)

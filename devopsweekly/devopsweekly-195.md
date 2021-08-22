@@ -200,4 +200,4 @@ Still curious what this all means in more technical terms, check fellow CNCF Amb
 
     “The ZFS on Linux project has been renamed OpenZFS! Both Linux and FreeBSD are now supported from the same repository making all of the OpenZFS features available on both platforms”
 
-### [ << Prev ](sreweekly-194.md) ------------- [ Next >> ](sreweekly-196.md)
+### [ << Prev ](devopsweekly-194.md) ------------- [ Next >> ](devopsweekly-196.md)

@@ -84,4 +84,4 @@ The past few days have been incredibly challenging mentally and physically. I’
 
     Monitor for the CPU Frequency Scaling under Linux.
 
-### [ << Prev ](sreweekly-197.md) ------------- [ Next >> ](sreweekly-199.md)
+### [ << Prev ](devopsweekly-197.md) ------------- [ Next >> ](devopsweekly-199.md)

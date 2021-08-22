@@ -132,4 +132,4 @@ I’ve never felt more comfortable telling an employer, even a person for that m
 
     
 
-### [ << Prev ](sreweekly-86.md) ------------- [ Next >> ](sreweekly-88.md)
+### [ << Prev ](devopsweekly-086.md) ------------- [ Next >> ](devopsweekly-088.md)

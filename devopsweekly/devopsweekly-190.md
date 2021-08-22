@@ -95,4 +95,4 @@ Want to see your organization in DevOps’ish? Review the <a href="https://devop
 
     Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
-### [ << Prev ](sreweekly-189.md) ------------- [ Next >> ](sreweekly-191.md)
+### [ << Prev ](devopsweekly-189.md) ------------- [ Next >> ](devopsweekly-191.md)

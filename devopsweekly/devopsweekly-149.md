@@ -104,4 +104,4 @@ On November 6th, we will be supporting the live online All Day DevOps conference
 
      Open Source Weaveworks Kubernetes System
 
-### [ << Prev ](sreweekly-148.md) ------------- [ Next >> ](sreweekly-150.md)
+### [ << Prev ](devopsweekly-148.md) ------------- [ Next >> ](devopsweekly-150.md)

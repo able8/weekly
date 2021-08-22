@@ -95,4 +95,4 @@ I’m going to keep the monologue pretty short this week. I have some lightly sc
 
     
 
-### [ << Prev ](sreweekly-54.md) ------------- [ Next >> ](sreweekly-56.md)
+### [ << Prev ](devopsweekly-054.md) ------------- [ Next >> ](devopsweekly-056.md)

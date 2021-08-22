@@ -99,4 +99,4 @@
 
      ”Kubernetes controller that ensures deletion of preemptible nodes in a GKE cluster is spread out to avoid the risk of all getting deleted at the same time after 24 hours”
 
-### [ << Prev ](sreweekly-138.md) ------------- [ Next >> ](sreweekly-140.md)
+### [ << Prev ](devopsweekly-138.md) ------------- [ Next >> ](devopsweekly-140.md)

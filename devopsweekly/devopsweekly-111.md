@@ -111,4 +111,4 @@ We grilled Jim with very tough questions. They were all answered with grace and 
 
      Run your GitHub Actions locally
 
-### [ << Prev ](sreweekly-110.md) ------------- [ Next >> ](sreweekly-112.md)
+### [ << Prev ](devopsweekly-110.md) ------------- [ Next >> ](devopsweekly-112.md)

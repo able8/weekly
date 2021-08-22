@@ -90,4 +90,4 @@ It felt like security dominated the news this week. A Pulse Secure VPN vulnerabi
 
      Validates your Go installation and dependencies
 
-### [ << Prev ](sreweekly-161.md) ------------- [ Next >> ](sreweekly-163.md)
+### [ << Prev ](devopsweekly-161.md) ------------- [ Next >> ](devopsweekly-163.md)

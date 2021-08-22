@@ -77,4 +77,4 @@ Note: I’m looking for an intern this summer to help with <a href="https://Open
 
     A fast TCP/UDP tunnel over HTTP
 
-### [ << Prev ](sreweekly-199.md) ------------- [ Next >> ](sreweekly-201.md)
+### [ << Prev ](devopsweekly-199.md) ------------- [ Next >> ](devopsweekly-201.md)

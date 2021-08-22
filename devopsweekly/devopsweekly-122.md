@@ -126,4 +126,4 @@ Don’t get me wrong, I’m excited to see where all this goes. It’s a ridicul
 
      Use new container attach on already container go on debug
 
-### [ << Prev ](sreweekly-121.md) ------------- [ Next >> ](sreweekly-123.md)
+### [ << Prev ](devopsweekly-121.md) ------------- [ Next >> ](devopsweekly-123.md)

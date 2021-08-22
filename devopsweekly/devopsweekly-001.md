@@ -108,4 +108,4 @@ The general consensus is if a company that is doing business in Canada they are 
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-0.md) ------------- [ Next >> ](sreweekly-2.md)
+### [ << Prev ](devopsweekly-000.md) ------------- [ Next >> ](devopsweekly-002.md)

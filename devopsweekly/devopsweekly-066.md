@@ -113,4 +113,4 @@ I’ll be in Silicon Valley (Sunnyvale/Santa Clara) this week for the first time
 
      Easy and Repeatable Kubernetes Development
 
-### [ << Prev ](sreweekly-65.md) ------------- [ Next >> ](sreweekly-67.md)
+### [ << Prev ](devopsweekly-065.md) ------------- [ Next >> ](devopsweekly-067.md)

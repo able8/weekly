@@ -169,4 +169,4 @@ Towards the end of my workday on Tuesday, <a href="https://arstechnica.com/tech-
 
     , a Michigan based company, is looking for an experienced person to fill a Operations Engineer - Platform Security role. I’ve heard nothing but good things about Duo.
 
-### [ << Prev ](sreweekly-69.md) ------------- [ Next >> ](sreweekly-71.md)
+### [ << Prev ](devopsweekly-069.md) ------------- [ Next >> ](devopsweekly-071.md)

@@ -127,4 +127,4 @@ This has been a whirlwind week. On Sunday, we celebrated Mother’s Day. It was 
 
     is looking for a Site Reliability Engineer in Cary, NC. Based off my experiences with DZone, this is a cool place to work. To quote a decision maker at DZone, “We need strong cloud, automation, security [experience].” Check them out.
 
-### [ << Prev ](sreweekly-75.md) ------------- [ Next >> ](sreweekly-77.md)
+### [ << Prev ](devopsweekly-075.md) ------------- [ Next >> ](devopsweekly-077.md)

@@ -125,4 +125,4 @@ Event season is upon us but the good news is DevOps’ish has discounts to some 
 
      I think it looks like a bong personally. But, after talking to a few folks at IBM, I am really impressed with the strides being made in this space. Also, I bought  in case that takes off.
 
-### [ << Prev ](sreweekly-145.md) ------------- [ Next >> ](sreweekly-147.md)
+### [ << Prev ](devopsweekly-145.md) ------------- [ Next >> ](devopsweekly-147.md)

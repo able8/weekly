@@ -83,4 +83,4 @@ As mentioned last week, the newsletter is going on a hiatus. I’m not sure for 
 
     “You don’t have to type kubectl --sort-by=.status.containerStatuses[0].restartcount get po to sort the pod by their STATUS, just type kubesort status that’s it.”
 
-### [ << Prev ](sreweekly-176.md) ------------- [ Next >> ](sreweekly-178.md)
+### [ << Prev ](devopsweekly-176.md) ------------- [ Next >> ](devopsweekly-178.md)

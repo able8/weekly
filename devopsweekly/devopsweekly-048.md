@@ -141,4 +141,4 @@ Strong opinions, loosely held: is a state of mind I’ve been striving to achiev
 
     
 
-### [ << Prev ](sreweekly-47.md) ------------- [ Next >> ](sreweekly-49.md)
+### [ << Prev ](devopsweekly-047.md) ------------- [ Next >> ](devopsweekly-049.md)

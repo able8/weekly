@@ -136,4 +136,4 @@ What a big week for tech news! On Monday, the first Kubernetes release of 2018 d
 
      How is this JUST now happening?!? How is Azure the #2 cloud provider?!?
 
-### [ << Prev ](sreweekly-68.md) ------------- [ Next >> ](sreweekly-70.md)
+### [ << Prev ](devopsweekly-068.md) ------------- [ Next >> ](devopsweekly-070.md)

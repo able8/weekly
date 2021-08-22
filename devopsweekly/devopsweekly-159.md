@@ -127,4 +127,4 @@
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-158.md) ------------- [ Next >> ](sreweekly-160.md)
+### [ << Prev ](devopsweekly-158.md) ------------- [ Next >> ](devopsweekly-160.md)

@@ -108,4 +108,4 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 
      A curated list of high quality coding style conventions and standards.
 
-### [ << Prev ](sreweekly-32.md) ------------- [ Next >> ](sreweekly-34.md)
+### [ << Prev ](devopsweekly-032.md) ------------- [ Next >> ](devopsweekly-034.md)

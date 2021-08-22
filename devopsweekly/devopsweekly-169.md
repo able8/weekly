@@ -83,4 +83,4 @@ The 2020 election for the <a href="https://wiki.opensource.org/bin/Main/OSI+Boar
 
     DIY sidecar injection to help you understand the concept of having multiple containers in a single pod to form a fully functional web app.
 
-### [ << Prev ](sreweekly-168.md) ------------- [ Next >> ](sreweekly-170.md)
+### [ << Prev ](devopsweekly-168.md) ------------- [ Next >> ](devopsweekly-170.md)

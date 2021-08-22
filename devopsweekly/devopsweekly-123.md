@@ -139,4 +139,4 @@ One of my coworkers did something awesome behind the scenes and I got credit for
 
     
 
-### [ << Prev ](sreweekly-122.md) ------------- [ Next >> ](sreweekly-124.md)
+### [ << Prev ](devopsweekly-122.md) ------------- [ Next >> ](devopsweekly-124.md)

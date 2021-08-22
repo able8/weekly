@@ -83,4 +83,4 @@ My wife said the weekend felt like three weeks on Tuesday while I nodded in vigo
 
     Asynchronous data replication for Kubernetes CSI storage
 
-### [ << Prev ](sreweekly-227.md) ------------- [ Next >> ](sreweekly-229.md)
+### [ << Prev ](devopsweekly-227.md) ------------- [ Next >> ](devopsweekly-229.md)

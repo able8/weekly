@@ -136,4 +136,4 @@ not strictly and grimly technical is not a reason to remove this.” Because a <
 
     is looking for a Site Reliability Engineer in Cary, NC. Based off my experiences with DZone, this is a cool place to work. To quote a decision maker at DZone, “We need strong cloud, automation, security [experience].” Check them out.
 
-### [ << Prev ](sreweekly-74.md) ------------- [ Next >> ](sreweekly-76.md)
+### [ << Prev ](devopsweekly-074.md) ------------- [ Next >> ](devopsweekly-076.md)

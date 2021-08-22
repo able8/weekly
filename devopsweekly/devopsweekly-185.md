@@ -97,4 +97,4 @@ I was going to discuss this lengthy piece but, give it a read instead: <a href="
 
     Machine Learning Platform for Kubernetes
 
-### [ << Prev ](sreweekly-184.md) ------------- [ Next >> ](sreweekly-186.md)
+### [ << Prev ](devopsweekly-184.md) ------------- [ Next >> ](devopsweekly-186.md)

@@ -120,4 +120,4 @@ Learn more about GoCD: <a href="https://www.gocd.org">www.gocd.org</a><br/>Learn
 
      Cross platform GUI in Go based on Material Design
 
-### [ << Prev ](sreweekly-120.md) ------------- [ Next >> ](sreweekly-122.md)
+### [ << Prev ](devopsweekly-120.md) ------------- [ Next >> ](devopsweekly-122.md)

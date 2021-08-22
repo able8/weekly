@@ -74,4 +74,4 @@ Note: Starting this week, I’m stopping all e-mail click and open tracking. Aft
 
     Kubernetes deployment visibility like a pro
 
-### [ << Prev ](sreweekly-170.md) ------------- [ Next >> ](sreweekly-172.md)
+### [ << Prev ](devopsweekly-170.md) ------------- [ Next >> ](devopsweekly-172.md)

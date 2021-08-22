@@ -90,4 +90,4 @@ You might have noticed last week that I changed up the <a href="https://devopsis
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-31.md) ------------- [ Next >> ](sreweekly-33.md)
+### [ << Prev ](devopsweekly-031.md) ------------- [ Next >> ](devopsweekly-033.md)

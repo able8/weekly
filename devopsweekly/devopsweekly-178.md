@@ -100,4 +100,4 @@ I don’t know. Maybe. I think my days of being able to spend Saturday night pro
 
      “Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.”
 
-### [ << Prev ](sreweekly-177.md) ------------- [ Next >> ](sreweekly-179.md)
+### [ << Prev ](devopsweekly-177.md) ------------- [ Next >> ](devopsweekly-179.md)

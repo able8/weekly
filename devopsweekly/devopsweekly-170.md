@@ -75,4 +75,4 @@ Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has 
 
     Introduction to Kubernetes Namespaces: What are Kubernetes Namespaces? How do Namespaces help you manage your Kubernetes resources and how to use them?
 
-### [ << Prev ](sreweekly-169.md) ------------- [ Next >> ](sreweekly-171.md)
+### [ << Prev ](devopsweekly-169.md) ------------- [ Next >> ](devopsweekly-171.md)

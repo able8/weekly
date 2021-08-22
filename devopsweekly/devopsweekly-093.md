@@ -157,4 +157,4 @@ I was going to write about <a href="https://azure.microsoft.com/en-us/blog/intro
 
      Framework for running BPF programs with rules on Linux as a daemon. Container aware.
 
-### [ << Prev ](sreweekly-92.md) ------------- [ Next >> ](sreweekly-94.md)
+### [ << Prev ](devopsweekly-092.md) ------------- [ Next >> ](devopsweekly-094.md)

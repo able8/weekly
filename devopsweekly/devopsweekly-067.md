@@ -93,4 +93,4 @@ I was in Sunnyvale and San Francisco most of the week and just got home. Thank y
 
     
 
-### [ << Prev ](sreweekly-66.md) ------------- [ Next >> ](sreweekly-68.md)
+### [ << Prev ](devopsweekly-066.md) ------------- [ Next >> ](devopsweekly-068.md)

@@ -131,4 +131,4 @@ May 1 @ 10:00 am - 11:00 am PDT
 
     is looking to bring someone on board to work in our DevOps and Digital Transformation practice. If you want to help some big-time companies eager to implement change . Plus, you get to work with  and me which is pretty great (IMHO).
 
-### [ << Prev ](sreweekly-72.md) ------------- [ Next >> ](sreweekly-74.md)
+### [ << Prev ](devopsweekly-072.md) ------------- [ Next >> ](devopsweekly-074.md)

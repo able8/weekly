@@ -138,4 +138,4 @@ Bankrate rewired my brain from proactive to reactive in a way I thought I had tr
 
      Microsoft isn’t the only company that’s interested in scaling Git.
 
-### [ << Prev ](sreweekly-49.md) ------------- [ Next >> ](sreweekly-51.md)
+### [ << Prev ](devopsweekly-049.md) ------------- [ Next >> ](devopsweekly-051.md)

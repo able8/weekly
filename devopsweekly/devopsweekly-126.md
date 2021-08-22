@@ -129,4 +129,4 @@ Friday afternoon (US east coast time), some oddities around git repos being take
 
     
 
-### [ << Prev ](sreweekly-125.md) ------------- [ Next >> ](sreweekly-127.md)
+### [ << Prev ](devopsweekly-125.md) ------------- [ Next >> ](devopsweekly-127.md)

@@ -212,4 +212,4 @@ The newsletter is coming to you a day early due to a new addition to our family 
 
     NOTE: If you’re a subscriber and looking for talent, please let me know. For the time being, I’m happy to feature job postings from subscribers for free.
 
-### [ << Prev ](sreweekly-84.md) ------------- [ Next >> ](sreweekly-86.md)
+### [ << Prev ](devopsweekly-084.md) ------------- [ Next >> ](devopsweekly-086.md)

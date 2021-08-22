@@ -125,4 +125,4 @@ Learn more about GoCD: <a href="https://www.gocd.org">www.gocd.org</a><br/>Learn
 
      I bought one to hopefully replace the never-ending collection of notebooks that are becoming increasingly harder to write in. My iPad Pro was too heavy and only had 32 GB of storage (one movie and it was basically full). The new iPad Mini should fit the notepad, dictation tool, ebook, and game device fit the bill rather nicely. By the way, the  is great!
 
-### [ << Prev ](sreweekly-119.md) ------------- [ Next >> ](sreweekly-121.md)
+### [ << Prev ](devopsweekly-119.md) ------------- [ Next >> ](devopsweekly-121.md)

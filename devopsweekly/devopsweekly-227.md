@@ -106,4 +106,4 @@ It’s an interesting, potentially life-saving <a href="https://www.technologyre
 
     Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 
-### [ << Prev ](sreweekly-226.md) ------------- [ Next >> ](sreweekly-228.md)
+### [ << Prev ](devopsweekly-226.md) ------------- [ Next >> ](devopsweekly-228.md)

@@ -118,4 +118,4 @@ The <a href="https://cshort.co/fest">AnsibleFest Atlanta Agenda</a> is live! Go 
 
      A next-generation HTTP client for Python
 
-### [ << Prev ](sreweekly-139.md) ------------- [ Next >> ](sreweekly-141.md)
+### [ << Prev ](devopsweekly-139.md) ------------- [ Next >> ](devopsweekly-141.md)

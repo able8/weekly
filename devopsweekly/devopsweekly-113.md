@@ -101,4 +101,4 @@ It is a lot like DevOps (or any kind of orchestrated change). You show up intend
 
      Resilience Engineering Notes
 
-### [ << Prev ](sreweekly-112.md) ------------- [ Next >> ](sreweekly-114.md)
+### [ << Prev ](devopsweekly-112.md) ------------- [ Next >> ](devopsweekly-114.md)

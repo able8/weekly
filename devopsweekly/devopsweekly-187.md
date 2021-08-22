@@ -102,4 +102,4 @@ The U-2 program is a very old and sensitive program to the US government. As hig
 
     Remote shell into ephemeral environments 🐚 🦀
 
-### [ << Prev ](sreweekly-186.md) ------------- [ Next >> ](sreweekly-188.md)
+### [ << Prev ](devopsweekly-186.md) ------------- [ Next >> ](devopsweekly-188.md)

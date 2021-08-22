@@ -91,4 +91,4 @@ OpenShift.TV has a shiny new web page. Yes, the calendar is busted, I know. But,
 
     “To help public defenders better serve their clients, Open Sentencing shows racial bias in data such as demographics providing insights for each case”
 
-### [ << Prev ](sreweekly-223.md) ------------- [ Next >> ](sreweekly-225.md)
+### [ << Prev ](devopsweekly-223.md) ------------- [ Next >> ](devopsweekly-225.md)

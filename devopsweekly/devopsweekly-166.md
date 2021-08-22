@@ -112,4 +112,4 @@
 
      SpiderFoot, the most complete OSINT collection and reconnaissance tool.
 
-### [ << Prev ](sreweekly-165.md) ------------- [ Next >> ](sreweekly-167.md)
+### [ << Prev ](devopsweekly-165.md) ------------- [ Next >> ](devopsweekly-167.md)

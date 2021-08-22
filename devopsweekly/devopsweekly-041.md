@@ -99,4 +99,4 @@ On October 24th, <a href="https://devopsish.com/">DevOps’ish</a> will be suppo
 
     A manager in an agile environment with strong technical skills. Collaborative leader who will understand our people, business, technology, and customers’ needs. Leader who helps drive our culture of empowerment, ownership, and accountability to help develop our team technically and professionally. Identify and successfully implement improvements in our engineering processes, tools, and architecture to enable us to deliver on our key initiatives.
 
-### [ << Prev ](sreweekly-40.md) ------------- [ Next >> ](sreweekly-42.md)
+### [ << Prev ](devopsweekly-040.md) ------------- [ Next >> ](devopsweekly-042.md)

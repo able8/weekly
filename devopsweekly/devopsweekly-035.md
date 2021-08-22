@@ -103,4 +103,4 @@ We are about a month away from <a href="https://www.devopsdays.org/events/2017-r
 
      Learn RegEx The Easy Way
 
-### [ << Prev ](sreweekly-34.md) ------------- [ Next >> ](sreweekly-36.md)
+### [ << Prev ](devopsweekly-034.md) ------------- [ Next >> ](devopsweekly-036.md)

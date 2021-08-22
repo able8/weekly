@@ -103,4 +103,4 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
      Build and run tiny vms from Dockerfiles. Small and sleek.
 
-### [ << Prev ](sreweekly-131.md) ------------- [ Next >> ](sreweekly-133.md)
+### [ << Prev ](devopsweekly-131.md) ------------- [ Next >> ](devopsweekly-133.md)

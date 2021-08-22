@@ -90,4 +90,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     A curated list for Awesome Kubernetes Security resources
 
-### [ << Prev ](sreweekly-211.md) ------------- [ Next >> ](sreweekly-213.md)
+### [ << Prev ](devopsweekly-211.md) ------------- [ Next >> ](devopsweekly-213.md)

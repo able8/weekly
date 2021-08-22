@@ -97,4 +97,4 @@ Adopt feature management practices to accelerate release cycles and deploy every
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-218.md) ------------- [ Next >> ](sreweekly-220.md)
+### [ << Prev ](devopsweekly-218.md) ------------- [ Next >> ](devopsweekly-220.md)

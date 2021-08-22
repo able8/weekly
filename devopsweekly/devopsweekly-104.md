@@ -137,4 +137,4 @@ I’d like to introduce you to <strong>Mark Mzyk</strong> (<a href="https://www.
 
     
 
-### [ << Prev ](sreweekly-103.md) ------------- [ Next >> ](sreweekly-105.md)
+### [ << Prev ](devopsweekly-103.md) ------------- [ Next >> ](devopsweekly-105.md)

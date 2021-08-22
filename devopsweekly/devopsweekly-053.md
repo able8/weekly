@@ -119,4 +119,4 @@ Last week, there was a giveaway of <a href="http://www.cnibook.info/">Cloud Nati
 
     Several projects announced they were going 1.0 in around CloudNativeCon + KubeCon: , , and  (I’m probably missing one).
 
-### [ << Prev ](sreweekly-52.md) ------------- [ Next >> ](sreweekly-54.md)
+### [ << Prev ](devopsweekly-052.md) ------------- [ Next >> ](devopsweekly-054.md)

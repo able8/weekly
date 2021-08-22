@@ -89,4 +89,4 @@ This is quite clever.
 
     Ansible automation to have a KUBErnetes cluster INITialized as soon as possible…
 
-### [ << Prev ](sreweekly-183.md) ------------- [ Next >> ](sreweekly-185.md)
+### [ << Prev ](devopsweekly-183.md) ------------- [ Next >> ](devopsweekly-185.md)

@@ -84,4 +84,4 @@ Typically, DevOps manages geographical differences through detailed ticketing an
 
     A manager in an agile environment with strong technical skills. Collaborative leader who will understand our people, business, technology, and customers’ needs. Leader who helps drive our culture of empowerment, ownership, and accountability to help develop our team technically and professionally. Identify and successfully implement improvements in our engineering processes, tools, and architecture to enable us to deliver on our key initiatives.
 
-### [ << Prev ](sreweekly-36.md) ------------- [ Next >> ](sreweekly-38.md)
+### [ << Prev ](devopsweekly-036.md) ------------- [ Next >> ](devopsweekly-038.md)

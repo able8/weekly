@@ -119,4 +119,4 @@ Thank you to each and every one of you. The fact you subscribe to something I wr
 
      Stroom is a highly scalable data storage, processing and analysis platform.
 
-### [ << Prev ](sreweekly-160.md) ------------- [ Next >> ](sreweekly-162.md)
+### [ << Prev ](devopsweekly-160.md) ------------- [ Next >> ](devopsweekly-162.md)

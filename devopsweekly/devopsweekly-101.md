@@ -115,4 +115,4 @@ Editor’s Note: Thank you to the folks that put my <a href="https://chrisshort.
 
      “Gophish is a powerful, open-source phishing framework that makes it easy to test your organization’s exposure to phishing.”
 
-### [ << Prev ](sreweekly-100.md) ------------- [ Next >> ](sreweekly-102.md)
+### [ << Prev ](devopsweekly-100.md) ------------- [ Next >> ](devopsweekly-102.md)

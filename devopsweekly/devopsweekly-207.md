@@ -91,4 +91,4 @@ The <a href="https://devopsish.com/solarwinds-supply-chain-compromise/">DevOpsâ€
 
     The next best thing after Bloomberg Terminal
 
-### [ << Prev ](sreweekly-206.md) ------------- [ Next >> ](sreweekly-208.md)
+### [ << Prev ](devopsweekly-206.md) ------------- [ Next >> ](devopsweekly-208.md)

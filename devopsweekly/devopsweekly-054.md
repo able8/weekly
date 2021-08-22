@@ -113,4 +113,4 @@ We have been totally buried by snow this week in Michigan. The daily snow foreca
 
     
 
-### [ << Prev ](sreweekly-53.md) ------------- [ Next >> ](sreweekly-55.md)
+### [ << Prev ](devopsweekly-053.md) ------------- [ Next >> ](devopsweekly-055.md)

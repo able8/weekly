@@ -113,4 +113,4 @@ In case you have been in a cave, here are the top stories you might have missed 
 
     
 
-### [ << Prev ](sreweekly-108.md) ------------- [ Next >> ](sreweekly-110.md)
+### [ << Prev ](devopsweekly-108.md) ------------- [ Next >> ](devopsweekly-110.md)

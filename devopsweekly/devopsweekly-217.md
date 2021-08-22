@@ -94,4 +94,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     Persistent volume migration plugin for Kubernetes
 
-### [ << Prev ](sreweekly-216.md) ------------- [ Next >> ](sreweekly-218.md)
+### [ << Prev ](devopsweekly-216.md) ------------- [ Next >> ](devopsweekly-218.md)

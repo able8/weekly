@@ -141,4 +141,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     . “Just a handful of things that were helpful to me, or that I developed with other allies, while working at Etsy.”
 
-### [ << Prev ](sreweekly-27.md) ------------- [ Next >> ](sreweekly-29.md)
+### [ << Prev ](devopsweekly-027.md) ------------- [ Next >> ](devopsweekly-029.md)

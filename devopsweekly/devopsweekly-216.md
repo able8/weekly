@@ -95,4 +95,4 @@ Ship Fast. Rest Easy. LaunchDarkly. SPONSORED
 
     Wildcard DNS for any IP Address
 
-### [ << Prev ](sreweekly-215.md) ------------- [ Next >> ](sreweekly-217.md)
+### [ << Prev ](devopsweekly-215.md) ------------- [ Next >> ](devopsweekly-217.md)

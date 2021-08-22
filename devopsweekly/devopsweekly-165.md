@@ -144,4 +144,4 @@ A change at the helms of IBM and Red Hat are occurring in April <a href="https:/
 
      Kubernetes Lazy User Manager
 
-### [ << Prev ](sreweekly-164.md) ------------- [ Next >> ](sreweekly-166.md)
+### [ << Prev ](devopsweekly-164.md) ------------- [ Next >> ](devopsweekly-166.md)

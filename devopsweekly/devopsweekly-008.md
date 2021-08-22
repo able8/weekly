@@ -77,4 +77,4 @@ Join <a href="https://www.reddit.com/r/devopsish/">/<span class="fa fa-reddit-al
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-7.md) ------------- [ Next >> ](sreweekly-9.md)
+### [ << Prev ](devopsweekly-007.md) ------------- [ Next >> ](devopsweekly-009.md)

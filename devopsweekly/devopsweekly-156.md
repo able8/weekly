@@ -117,4 +117,4 @@ It is worth noting that the metrics-based system I use to help write DevOps’is
 
     Join  for a stream of news and content throughout the week.
 
-### [ << Prev ](sreweekly-155.md) ------------- [ Next >> ](sreweekly-157.md)
+### [ << Prev ](devopsweekly-155.md) ------------- [ Next >> ](devopsweekly-157.md)

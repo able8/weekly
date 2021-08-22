@@ -92,4 +92,4 @@ There’s nothing I’m going to say or do that’s going to change anything. Bu
 
     “ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.”
 
-### [ << Prev ](sreweekly-195.md) ------------- [ Next >> ](sreweekly-197.md)
+### [ << Prev ](devopsweekly-195.md) ------------- [ Next >> ](devopsweekly-197.md)

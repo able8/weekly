@@ -115,4 +115,4 @@ Also, DevOps’ish is 101 subscribers from officially passing the 5,000 subscrib
 
     A GitHub action that scans the Azure resources for policy violations.
 
-### [ << Prev ](sreweekly-208.md) ------------- [ Next >> ](sreweekly-210.md)
+### [ << Prev ](devopsweekly-208.md) ------------- [ Next >> ](devopsweekly-210.md)

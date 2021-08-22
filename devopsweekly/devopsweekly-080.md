@@ -121,4 +121,4 @@ This week I announced <a href="https://twitter.com/ChrisShort/status/10069662301
 
     As a DevOps Engineer, you’ll be part of a small operations team responsible for engineering and maintaining the production infrastructure for Tivo’s Advanced Search and Recommendations platform in the cloud and on-premises.
 
-### [ << Prev ](sreweekly-79.md) ------------- [ Next >> ](sreweekly-81.md)
+### [ << Prev ](devopsweekly-079.md) ------------- [ Next >> ](devopsweekly-081.md)

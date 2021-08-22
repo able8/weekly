@@ -99,4 +99,4 @@ Note: All stats are for <em>2018 only</em> (source, MailChimp)
 
      Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 
-### [ << Prev ](sreweekly-107.md) ------------- [ Next >> ](sreweekly-109.md)
+### [ << Prev ](devopsweekly-107.md) ------------- [ Next >> ](devopsweekly-109.md)
