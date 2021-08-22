@@ -2,11 +2,11 @@
 
 [README](README.md)
 
-[Golang Weekly](golangweekly/)
-[SRE Weekly](sreweekly/)
-[DevOps Weekly](devopsweekly/)
-[DevOps Weekly Notes](devopsweeklynotes/)
-[Kubernetes Weekly Kubelist](kubelist/)
+[Golang Weekly](golangweekly/golangweekly-375.md)
+[SRE Weekly](sreweekly/sreweekly-283.md)
+[DevOps Weekly](devopsweekly/devopsweekly-230.md)
+[DevOps Weekly Notes](devopsweeklynotes/devopsweeklynotes-230.md)
+[Kubernetes Weekly Kubelist](kubelist/kubelist-134.md)
 
 
 <!-- [gimmick:theme (inverse: true)](default) -->
