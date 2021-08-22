@@ -111,7 +111,6 @@ func ScrapDevOpsWeekly(Number string) {
 			description = strings.TrimSpace(description)
 			description = strings.TrimPrefix(description, ":")
 			description = strings.TrimPrefix(description, "—")
-			fmt.Println(description)
 			fmt.Fprintf(w, "    %s\n", description)
 		}
 		return true
