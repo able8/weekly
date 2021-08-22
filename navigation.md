@@ -1,10 +1,10 @@
-# Weekly newsletter 
+# Weekly 
 
 [Golang Weekly](golangweekly/golangweekly-375.md)
 [Kubernetes Weekly](kubelist/kubelist-134.md)
 [SRE Weekly](sreweekly/sreweekly-283.md)
 [DevOps Weekly](devopsweekly/devopsweekly-230.md)
-[DevOps Weekly Notes](devopsweeklynotes/devopsweeklynotes-230.md)
+[DevOps Notes Weekly](devopsweeklynotes/devopsweeklynotes-230.md)
 
 
 <!-- [gimmick:theme (inverse: true)](default) -->
