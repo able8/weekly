@@ -53,9 +53,73 @@ func main() {
 	// 	}
 	// }
 
-	for i := 3; i < 284; i++ {
-		ScrapSreWeekly(strconv.Itoa(i))
+	for i := 1; i < 231; i++ {
+		ScrapDevOpsWeekly(fmt.Sprintf("%03d", i))
+		time.Sleep(time.Microsecond * 500)
 	}
+}
+
+func ScrapDevOpsWeekly(Number string) {
+	f, err := os.Create("devopsweekly/devopsweekly-" + Number + ".md")
+	check(err)
+	defer f.Close()
+	w := bufio.NewWriter(f)
+
+	url := "https://devopsish.com/" + Number
+	log.Println("getting: ", url)
+	resp, err := client.Get(url)
+	check(err)
+	defer resp.Body.Close()
+
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	check(err)
+
+	var updatedTime string
+	updatedTime = doc.Find("article .blog-post-meta time").Text()
+
+	fmt.Fprintf(w, "## [DevOps'ish %s](%s) - %s\n\n", Number, url, updatedTime)
+
+	doc.Find("article").Contents().Not("header,dev").EachWithBreak(func(i int, s *goquery.Selection) bool {
+		if s.Is("#people") {
+			return false
+		}
+
+		if s.Is("p") && s.Text() != "" {
+			description, _ := s.Html()
+			fmt.Fprintf(w, "%s\n\n", description)
+		}
+		return true
+	})
+
+	doc.Find("article>h2, article>h2~p").EachWithBreak(func(i int, s *goquery.Selection) bool {
+		if s.Is("#devops-ish-tweet-of-the-week") {
+			return false
+		}
+		if s.Is("h2") {
+			var title string
+			title = s.Text()
+			fmt.Fprintf(w, "### %s\n\n", title)
+		}
+
+		if s.Is("p") && s.Text() != "" {
+			var title, titleURL, description string
+			title = s.Find("a").Text()
+			titleURL, _ = s.Find("a").Attr("href")
+
+			fmt.Fprintf(w, "1. [%s](%s)\n\n", title, titleURL)
+			description = s.Contents().Not("a").Text()
+			description = strings.TrimSpace(description)
+			description = strings.TrimPrefix(description, ":")
+			description = strings.TrimPrefix(description, "—")
+			fmt.Println(description)
+			fmt.Fprintf(w, "    %s\n", description)
+		}
+		return true
+	})
+
+	IntNumber, _ := strconv.Atoi(Number)
+	fmt.Fprintf(w, "\n### [ << Prev ](sreweekly-%d.md) ------------- [ Next >> ](sreweekly-%d.md)", IntNumber-1, IntNumber+1)
+	w.Flush()
 }
 
 func ScrapSreWeekly(Number string) {
