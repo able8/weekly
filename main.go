@@ -14,14 +14,6 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-type Article struct {
-	Title       string `json:"title,omitempty"`
-	TargetUrl   string `json:"target_url,omitempty"`
-	SourceUrl   string `json:"source_url,omitempty"`
-	SourceName  string `json:"source_name,omitempty"`
-	Description string `json:"description,omitempty"`
-}
-
 var client *http.Client
 
 func init() {
@@ -56,11 +48,69 @@ func main() {
 	// }
 
 	// From 106
-	for i := 180; i < 231; i++ {
-		ScrapDevOpsWeeklyNotes(fmt.Sprintf("%03d", i))
+	// for i := 180; i < 231; i++ {
+	// 	ScrapDevOpsWeeklyNotes(fmt.Sprintf("%03d", i))
+	// 	time.Sleep(time.Microsecond * 500)
+	// }
+
+	for i := 50; i < 100; i++ {
+		ScrapKubelist(fmt.Sprintf("%d", i))
 		time.Sleep(time.Microsecond * 500)
 	}
 }
+
+func ScrapKubelist(Number string) {
+	path := "kubelist/"
+	if _, err := os.Stat(path); os.IsNotExist(err) {
+		err := os.Mkdir(path, 0755)
+		check(err)
+	}
+
+	url := "https://kubelist.com/issue/" + Number
+	resp, err := client.Get(url)
+	log.Println("getting: ", url, resp.StatusCode)
+	check(err)
+	defer resp.Body.Close()
+
+	if resp.StatusCode == http.StatusNotFound {
+		return
+	}
+
+	f, err := os.Create(path + "kubelist-" + Number + ".md")
+	check(err)
+	defer f.Close()
+	w := bufio.NewWriter(f)
+
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	check(err)
+
+	var header string
+	header, _ = doc.Find("head meta[name=description]").Attr("content")
+	firstDot := strings.Index(header, ".")
+	header = header[:firstDot]
+
+	fmt.Fprintf(w, "## [Kubelist %s](%s)\n\n", header, url)
+
+	doc.Find(".gsZrho").Each(func(i int, s *goquery.Selection) {
+		issueTitle := s.Find(".ckjJvh").Text()
+		if issueTitle != "" {
+			blockquote, _ := s.Find("blockquote p").Html()
+			fmt.Fprintf(w, "#### %s\n\n> %s\n\n", issueTitle, blockquote)
+			return
+		}
+
+		title := s.Find(".cCgpZH").Find("a").First().Text()
+		titleURL, _ := s.Find(".cCgpZH").Find("a").First().Attr("href")
+		description := s.Find(".jtHtiv").Text()
+		fmt.Fprintf(w, "1. [%s](%s)\n\n", title, titleURL)
+		fmt.Fprintf(w, "    %s\n", description)
+	})
+
+	IntNumber, _ := strconv.Atoi(Number)
+	fmt.Fprintf(w, "\n### [ << Prev ](kubelist-%d.md) ------------- [ Next >> ](kubelist-%d.md)", IntNumber-1, IntNumber+1)
+	w.Flush()
+}
+
 func ScrapDevOpsWeeklyNotes(Number string) {
 	path := "devopsweeklynotes/"
 	if _, err := os.Stat(path); os.IsNotExist(err) {

@@ -1,6 +1,7 @@
 # Weekly news scraper
 
-Get weekly newsletters
+### Get weekly newsletters of Golang, SRE, DevOps, and Kubernetes.
+
 
 - [Golang Weekly](golangweekly/) From https://golangweekly.com/issues
 
@@ -10,4 +11,4 @@ Get weekly newsletters
 
 - [DevOps Weekly Notes](devopsweeklynotes/) From: https://devopsish.com/
 
-- [Kubernetes]
+- [Kubernetes Weekly Kubelist](kubelist/) From: https://kubelist.com/issue/latest/
